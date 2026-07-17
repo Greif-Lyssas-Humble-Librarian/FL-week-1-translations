@@ -1,498 +1,392 @@
-# game/code/d03/d03s08.rpy:45
-translate korean replay_d03s08_dff3938e:
+# game/code/d03/d03s07.rpy:13
+translate korean d03s07_44f3d770:
 
-    # dw "First, some ground rules: {w}You will refer to me as \"Mistress\" as in \"Yes, Mistress\" or \"No, Mistress\". Understood?"
-    dw "첫 번째, 기본 규칙: {w}\"예, 여왕님\"이나 \"아니오, 여왕님\"라고 대답하고 날 \"여왕님\"이라고 부른다. 이해했나?"
+    # "04:30 PM"
+    "오후 04:30"
 
-# game/code/d03/d03s08.rpy:50
-translate korean replay_d03s08_7fd3a623:
+# game/code/d03/d03s07.rpy:27
+translate korean d03s07_96c3d260:
 
-    # mc "Yes, Mistress."
-    mc "예, 여왕님."
+    # pb "Oh, Hey [mcname]. Let me introduce you."
+    pb "오, 왔냐, [mcname]. 소개할게."
 
-# game/code/d03/d03s08.rpy:56
-translate korean replay_d03s08_3f753ab1:
+# game/code/d03/d03s07.rpy:30
+translate korean d03s07_bdcbb4bf:
 
-    # dw "Good boy. Next rule: You will speak only to me and only when directed to do so. Understood?"
-    dw "잘 했어. 다음 규칙: 오직 나에게만 말하고 내가 대답하라고 했을 때만 말을 한다. 이해했나?"
+    # pb "The lovely lady in front of me is Daisy"
+    pb "내 앞에 있는 사랑스러운 아가씨는 데이지."
 
-# game/code/d03/d03s08.rpy:60
-translate korean replay_d03s08_4cbca8ad:
+# game/code/d03/d03s07.rpy:32
+translate korean d03s07_d41ecff0:
 
-    # mc "Yes, Mistress"
-    mc "예, 여왕님"
+    # pb "And the beautiful one hiding behind a book is Dahlia."
+    pb "그리고 책 뒤에 숨어 있는 아름다운 아가씨는 달리아."
 
-# game/code/d03/d03s08.rpy:66
-translate korean replay_d03s08_30923985:
+# game/code/d03/d03s07.rpy:39
+translate korean d03s07_796396fa:
 
-    # dw "Good boy. Next rule: You will not cum without my permission. Understood?"
-    dw "잘 했어. 다음 규칙: 내 허락이 없으면 싸지 않는다. 이해했나?"
+    # mct "Oh, there she is! But she introduced herself as Daisy this morning..."
+    mct "오, 얘도 있네! 이미 아침에 자길 데이지라고 소개했단 말이지..."
 
-# game/code/d03/d03s08.rpy:71
-translate korean replay_d03s08_aecf1682:
+# game/code/d03/d03s07.rpy:43
+translate korean d03s07_2a82c66a:
 
-    # mc "um... Yes, Mistress."
-    mc "음... 예, 여왕님."
+    # mc "I'm pretty sure you got that backwards."
+    mc "니가 분명히 거꾸로 말한 거야."
 
-# game/code/d03/d03s08.rpy:77
-translate korean replay_d03s08_31a1c878:
+# game/code/d03/d03s07.rpy:45
+translate korean d03s07_31d40295:
 
-    # dw "You sound uncertain. Is that rule clear?"
-    dw "확실하지 않은 모양인데. 규칙을 분명히 이해했나?"
+    # pb "Huh?"
+    pb "응?"
 
-# game/code/d03/d03s08.rpy:79
-translate korean replay_d03s08_920d769a:
+# game/code/d03/d03s07.rpy:48
+translate korean d03s07_3d7128e2:
 
-    # mc "Yes, Mistress. I will do my best, Mistress."
-    mc "예, 여왕님. 최선을 다하겠습니다, 여왕님."
+    # mc "Hi Dahlia, nice to meet you."
+    mc "안녕 달리아, 만나서 반가워."
 
-# game/code/d03/d03s08.rpy:81
-translate korean replay_d03s08_fed561e0:
+# game/code/d03/d03s07.rpy:50
+translate korean d03s07_f4860966:
 
-    # dw "Fair enough. Now, if we are going to do this we are going to do this properly."
-    dw "좋아. 이제 할 거라면 제대로 한다."
+    # mc "Hey there Daisy, pleasure to see you again."
+    mc "어이 데이지, 또 보니 기뻐."
 
-# game/code/d03/d03s08.rpy:83
-translate korean replay_d03s08_bc6c0e9a:
+# game/code/d03/d03s07.rpy:53
+translate korean d03s07_ad4d3adf:
 
-    # dw "Strip!"
-    dw "벗어!"
+    # dd "Hey there!"
+    dd "안녕!"
 
-# game/code/d03/d03s08.rpy:86
-translate korean replay_d03s08_212e8fea:
+# game/code/d03/d03s07.rpy:58
+translate korean d03s07_a207bb0e:
 
-    # pb "Go ahead. That will definitely be worth more points."
-    pb "어서 해. 분명히 점수를 따는 데 도움이 될 꺼야."
+    # pb "Yeah, right... {w}I told you about them yesterday!"
+    pb "그래, 맞아... {w}어제 내가 너한테 얘들에 관해 말했지!"
 
-# game/code/d03/d03s08.rpy:89
-translate korean replay_d03s08_b7c2ae3d:
+# game/code/d03/d03s07.rpy:60
+translate korean d03s07_78465fe7:
 
-    # dd "I wouldn't mind seeing that again."
-    dd "난 전에 한 번 봤으니까 다시 봐도 괜찮아."
+    # mct "He told me about them? What? {w}I can't remember he telling me about them..."
+    mct "피트가 나한테 얘들에 관해 말했다고? 뭘? {w}말했다는 내용이 기억 안 나는데..."
 
-# game/code/d03/d03s08.rpy:92
-translate korean replay_d03s08_cfb40a80:
+# game/code/d03/d03s07.rpy:61
+translate korean d03s07_494f3a0b:
 
-    # mc "No, Mistress."
-    mc "아니오, 여왕님."
+    # mct "Oh wait is that..."
+    mct "오 잠깐만 그게..."
 
-# game/code/d03/d03s08.rpy:94
-translate korean replay_d03s08_1fa85a17:
+# game/code/d03/d03s07.rpy:72
+translate korean d03s07_08983d74:
 
-    # dw "What do you mean, \"No\"?"
-    dw "무슨 의미지, \"아니오\"라니?"
+    # mct "Fuck! Those girls! So one of them is the blonde that he came on!"
+    mct "씨발! 걔들이네! 얘들 중 한 명이 피트가 머리에 쌌다는 그 금발이야!"
 
-# game/code/d03/d03s08.rpy:96
-translate korean replay_d03s08_cc5a6a44:
+# game/code/d03/d03s07.rpy:78
+translate korean d03s07_ac13a093:
 
-    # mc "In front of them?!"
-    mc "얘들 앞에서 말입니까?!"
+    # mct "They both could qualify as blonde... I wonder which one was it!"
+    mct "둘 다 금발이라고 할 수 있잖아... 얘들 중 누가 걔인지 궁금하네!"
 
-# game/code/d03/d03s08.rpy:98
-translate korean replay_d03s08_0c9fd3e5:
+# game/code/d03/d03s07.rpy:80
+translate korean d03s07_77408eb6:
 
-    # pb "I will be taking pictures to get you more points!"
-    pb "점수를 더 딸 수 있게 내가 사진을 찍을게!"
+    # pb "Yea right... "
+    pb "그래 맞아... "
 
-# game/code/d03/d03s08.rpy:101
-translate korean replay_d03s08_a05bc0de:
+# game/code/d03/d03s07.rpy:84
+translate korean d03s07_76809710:
 
-    # dd "And I'm horny to see the whole fetish thingy!"
-    dd "그리고 나는 페티시 같은 걸 보게 되니까 흥분된다!"
+    # pb "Oh, well, yeah. Ladies, this is my roommate, [mcname]."
+    pb "오, 그렇지, 그래. 아가씨들, 얘가 내 룸메이트, [mcname]."
 
-# game/code/d03/d03s08.rpy:104
-translate korean replay_d03s08_8892209a:
+# game/code/d03/d03s07.rpy:85
+translate korean d03s07_4233b562:
 
-    # dw "Very well. A good master takes care of her playthings. You may remain clothed for now."
-    dw "아주 잘 알겠다. 좋은 주인은 자기 장난감을 신경 쓰는 법. 지금은 옷을 입고 있어도 된다."
+    # pb "He's a great guy, you'll like him. He could teach classes on studying women."
+    pb "얜 대단한 녀석이야, 너희들도 얠 좋아하게 될 걸. 여자를 연구하는 걸로는 강의도 할 수 있을 정도라고."
 
-# game/code/d03/d03s08.rpy:105
-translate korean replay_d03s08_c235903a:
+# game/code/d03/d03s07.rpy:90
+translate korean d03s07_88f22d05:
 
-    # dw "But they will stay!"
-    dw "그러나 다른 사람들은 여기 있는다!"
+    # dw "What?"
+    dw "뭐?"
 
-# game/code/d03/d03s08.rpy:107
-translate korean replay_d03s08_9566cc04:
+# game/code/d03/d03s07.rpy:92
+translate korean d03s07_81fa94ec:
 
-    # mc "Thank you, Mistress."
-    mc "감사합니다, 여왕님."
+    # dd "I think he means women's studies."
+    dd "내 생각엔 얘가 여성학을 말하는 것 같은데."
 
-# game/code/d03/d03s08.rpy:109
-translate korean replay_d03s08_ba606798:
+# game/code/d03/d03s07.rpy:94
+translate korean d03s07_5e2b3f7d:
 
-    # dw "You may begin by licking my boots."
-    dw "내 부츠를 핥는 걸로 시작해."
+    # mc "I hope so."
+    mc "그랬길 바라."
 
-# game/code/d03/d03s08.rpy:114
-translate korean replay_d03s08_fee305e8:
+# game/code/d03/d03s07.rpy:101
+translate korean d03s07_5c1e0c87:
 
-    # mc "Yes, Mistress. Thank you, Mistress."
-    mc "예, 여왕님. 감사합니다, 여왕님."
+    # dw "Oh."
+    dw "오."
 
-# game/code/d03/d03s08.rpy:128
-translate korean replay_d03s08_7ff8e153:
+# game/code/d03/d03s07.rpy:104
+translate korean d03s07_a6f972d2:
 
-    # dw "Like that!"
-    dw "그래 그렇게!"
+    # pb "Right, yeah. Women's rights and that sort of thing."
+    pb "맞아, 그래. 여성의 권리 그리고 그런 거."
 
-# game/code/d03/d03s08.rpy:131
-translate korean replay_d03s08_f2ef0d76:
+# game/code/d03/d03s07.rpy:108
+translate korean d03s07_ab7e3426:
 
-    # dw "Suck those heels like a little bitch you are!"
-    dw "너 같은 암캐라면 방법은 잘 알겠지 굽도 빨아!"
+    # mc "I actually study business & marketing."
+    mc "난 사실은 경영이랑 마케팅을 공부해."
 
-# game/code/d03/d03s08.rpy:135
-translate korean replay_d03s08_fb69ae9e:
+# game/code/d03/d03s07.rpy:111
+translate korean d03s07_dc7fb0ed:
 
-    # dw "I don't hear anything!"
-    dw "대답이 안 들리는데!"
+    # pb "I just meant that he's a nice guy, gets along well with women, isn't all alpha."
+    pb "내 말은, 이 자식이 괜찮은 놈이라는 거야. 여자들이랑 잘 지내고, 되도 않는 남자 부심 같은 것도 없거든."
 
-# game/code/d03/d03s08.rpy:137
-translate korean replay_d03s08_29ccb566:
+# game/code/d03/d03s07.rpy:113
+translate korean d03s07_22d5a102:
 
-    # mc "Sh-shank you Mish-shtresh!"
-    mc "가-음샤합니다 여으왕니임!"
+    # mc "Thanks, I think."
+    mc "칭찬 고맙다고 해야겠네."
 
-# game/code/d03/d03s08.rpy:138
-translate korean replay_d03s08_6c64182c:
+# game/code/d03/d03s07.rpy:115
+translate korean d03s07_c168d57e:
 
-    # dw "That's a good boy!"
-    dw "정말 말을 잘 듣는 암캐인 걸!"
+    # pb "Anyway, that's why I wanted you here."
+    pb "어쨌든, 그게 여기에 니가 필요한 이유야."
 
-# game/code/d03/d03s08.rpy:140
-translate korean replay_d03s08_e1dba362:
+# game/code/d03/d03s07.rpy:119
+translate korean d03s07_a1b2cca5:
 
-    # dw "Now remove the shoes."
-    dw "이제 신발을 벗겨."
+    # pb "Today's challenge is feet, and Dais... Dahlia's been all over me today trying to get me to be more of a nice guy that gets along with women."
+    pb "오늘의 도전은 발이야, 그리고 데이ㅈ... 달리아가 오늘 하루 종일 나보고 여자한테 잘 맞춰 주는 좋은 남자가 돼 보라고 했거든."
 
-# game/code/d03/d03s08.rpy:144
-translate korean replay_d03s08_8aa5494b:
+# game/code/d03/d03s07.rpy:121
+translate korean d03s07_05500ff6:
 
-    # mc "Like that, Mistress?"
-    mc "이렇게 말입니까, 여왕님?"
+    # mc "Huh?"
+    mc "허?"
 
-# game/code/d03/d03s08.rpy:146
-translate korean replay_d03s08_f7c1018f:
+# game/code/d03/d03s07.rpy:123
+translate korean d03s07_d917d396:
 
-    # dw "You are a quick learner!"
-    dw "빨리 배우는 녀석이구나!"
+    # dd "She wants a guy to worship her feet."
+    dd "달리아는 자기 발을 숭배할 남자를 바라."
 
-# game/code/d03/d03s08.rpy:153
-translate korean replay_d03s08_d58a37ca:
+# game/code/d03/d03s07.rpy:130
+translate korean d03s07_c070d193:
 
-    # dw "Yes like that!"
-    dw "그래 그렇게!"
+    # dw "What I want is someone who is man enough to serve me as I deserve."
+    dw "내가 원하는 건 내가 대우를 받아야 할 만큼 나한테 충실히 봉사하는 남자야."
 
-# game/code/d03/d03s08.rpy:162
-translate korean replay_d03s08_9dc3c7b4:
+# game/code/d03/d03s07.rpy:131
+translate korean d03s07_1e101516:
 
-    # dw "Oh so good!"
-    dw "오 아주 좋아!"
+    # mc "Now I'm confused."
+    mc "나 지금 헷갈리는데."
 
-# game/code/d03/d03s08.rpy:167
-translate korean replay_d03s08_bfc39dc1:
+# game/code/d03/d03s07.rpy:135
+translate korean d03s07_1f49e749:
 
-    # dw "Yes! Suck those dirty toes!"
-    dw "그래! 이 더러운 발가락을 빨아!"
+    # pb "See, Dahlia is a bit of a... What's the word?"
+    pb "봐, 달리아는 약간... 그 단어가 뭐였지?"
 
-# game/code/d03/d03s08.rpy:171
-translate korean replay_d03s08_027d96c1:
+# game/code/d03/d03s07.rpy:137
+translate korean d03s07_6176ddf6:
 
-    # dw "Yes!"
-    dw "그래!"
+    # dd "Dominatrix?"
+    dd "여왕님?"
 
-# game/code/d03/d03s08.rpy:176
-translate korean replay_d03s08_ef594176:
+# game/code/d03/d03s07.rpy:141
+translate korean d03s07_09cd35aa:
 
-    # dw "A-Ahhh!"
-    dw "아-아아아!"
+    # pb "Whatever you call it."
+    pb "뭐라고 부르든 간에."
 
-# game/code/d03/d03s08.rpy:179
-translate korean replay_d03s08_54d4bd2b:
+# game/code/d03/d03s07.rpy:143
+translate korean d03s07_cbf99f55:
 
-    # dw "You did so well! You will be a very good slave!"
-    dw "매우 잘 했다! 너라면 아주 좋은 노예가 되겠구나!"
+    # dw "I'm okay with dominatrix."
+    dw "여왕님이라 불러도 좋다."
 
-# game/code/d03/d03s08.rpy:181
-translate korean replay_d03s08_84d3f304:
+# game/code/d03/d03s07.rpy:146
+translate korean d03s07_3b921fba:
 
-    # dw "Here! You earned your reward! {w}You may taste your Mistress!"
-    dw "자! 여기 너의 보상이다! {w}너라면 여왕의 맛을 봐도 된다!"
+    # pb "So she wants a guy who is willing to lick her shoes, suck her toes, that sort of thing."
+    pb "그래 얘는 기꺼이 자기 신발을 핥거나, 자기 발가락을 빨거나, 그런 일을 하는 남자를 원해."
 
-# game/code/d03/d03s08.rpy:185
-translate korean replay_d03s08_ab815d97:
+# game/code/d03/d03s07.rpy:149
+translate korean d03s07_15c82303:
 
-    # dw "You may stand up and take off your pants."
-    dw "일어서서 바지를 벗어도 된다."
+    # mc "... and you thought of me."
+    mc "... 그리고 그 남자로 나를 떠올렸다는 거고."
 
-# game/code/d03/d03s08.rpy:188
-translate korean replay_d03s08_b51f3e07:
+# game/code/d03/d03s07.rpy:156
+translate korean d03s07_e50f9b0a:
 
-    # dw "That is quite impressive."
-    dw "참으로 인상 깊어."
+    # dw "Is he not going to do it?!"
+    dw "안 한다는 거야?!"
 
-# game/code/d03/d03s08.rpy:190
-translate korean replay_d03s08_9b327fcf:
+# game/code/d03/d03s07.rpy:158
+translate korean d03s07_215c8779:
 
-    # dw "You have my permission to cum... {w}After I leave the room."
-    dw "싸도 된다는 허락을 주겠다... {w}내가 방을 나선 후에."
+    # pb "I don't know. I just know that he need points, and this would be a great way for him to earn points."
+    pb "난 모르겠는데. 내가 아는 건 얘한테 점수가 필요하다는 거랑, 이게 점수를 따기에 가장 좋은 방법이라는 거야."
 
-# game/code/d03/d03s08.rpy:200
-translate korean replay_d03s08_9dd1f8cf:
+# game/code/d03/d03s07.rpy:160
+translate korean d03s07_3d356494:
 
-    # dd "That was..."
-    dd "이거 정말..."
+    # pb "You're willing to do a little foot fetish thing to score some big points, right?"
+    pb "점수를 따야 하니까 약간 풋 페티시 분위기가 나는 일을 할 거지, 그렇지?"
 
-# game/code/d03/d03s08.rpy:203
-translate korean replay_d03s08_b00ad55e:
+# game/code/d03/d03s07.rpy:163
+translate korean d03s07_74f01f58:
 
-    # pb "... incredibly hot. Wow! {w}I didn't know you had that in you!"
-    pb "... 엄청나게 꼴리는데. 와아! {w}니가 이런 일도 할 수 있는지 몰랐어!"
+    # mc "It doesn't sound like a little foot fetish thing."
+    mc "약간 풋 페티시 분위기가 나는 일처럼 들리지 않는데."
 
-# game/code/d03/d03s08.rpy:207
-translate korean replay_d03s08_cc4f22d9:
+# game/code/d03/d03s07.rpy:166
+translate korean d03s07_3ac027c6:
 
-    # dd "... yeah."
-    dd "... 맞아."
+    # dw "No, do it properly or not at all."
+    dw "됐어, 제대로 하든가 아님 말든가."
 
-# game/code/d03/d03s08.rpy:208
-translate korean replay_d03s08_5c841739:
+# game/code/d03/d03s07.rpy:168
+translate korean d03s07_198b9244:
 
-    # mc "Thanks, I guess. Can I see what the photos look like?"
-    mc "고맙다고 해야 하나 . 니가 찍는다던 사진 좀 볼 수 있을까?"
+    # mc "I need to think about this for a second."
+    mc "잠깐 생각 좀 해 볼게."
 
-# game/code/d03/d03s08.rpy:212
-translate korean replay_d03s08_cead5ef6:
+# game/code/d03/d03s07.rpy:172
+translate korean d03s07_4f67e41f:
 
-    # pb "Oh shit, dude, I'm sorry. We got kinda distracted."
-    pb "아 씹, 쨔샤, 미안해. 정신이 팔려서."
+    # dw "While you're thinking, get down on your knees before me."
+    dw "생각하는 동안, 내 앞에 무릎 꿇고 앉아."
 
-# game/code/d03/d03s08.rpy:213
-translate korean replay_d03s08_1d49defa:
+# game/code/d03/d03s07.rpy:174
+translate korean d03s07_6b0ed824:
 
-    # mc "WHAT?"
-    mc "무어?"
+    # mc "Um..."
+    mc "음..."
 
-# game/code/d03/d03s08.rpy:215
-translate korean replay_d03s08_7c0063a9:
+# game/code/d03/d03s07.rpy:176
+translate korean d03s07_2d97235f:
 
-    # pb "Sorry, sorry, it was just ... "
-    pb "미안, 미안해, 이게 그러니까 ... "
+    # dw "Kneel."
+    dw "꿇어."
 
-# game/code/d03/d03s08.rpy:218
-translate korean replay_d03s08_a2d674ba:
+# game/code/d03/d03s07.rpy:181
+translate korean d03s07_35dce81c:
 
-    # mc "Peter Fucking Butler you had better be joking..."
-    mc "피터 씹쌔끼 버틀러 너 농담하는 거지..."
+    # mc "Yes, ma'am."
+    mc "네, 여왕님."
 
-# game/code/d03/d03s08.rpy:222
-translate korean replay_d03s08_dcad8ec7:
+# game/code/d03/d03s07.rpy:186
+translate korean d03s07_1a51e225:
 
-    # pb "Hey, wait, I'll tell you what. I'll transfer all my FL points to your account."
-    pb "야, 잠깐만, 말할 게 있어. 니 계정으로 내 FL 점수 전부 보내 줄께."
+    # mc "Okay, I really do need those points."
+    mc "좋아, 난 진짜 점수가 필요해."
 
-# game/code/d03/d03s08.rpy:224
-translate korean replay_d03s08_2b35b6fe:
+# game/code/d03/d03s07.rpy:189
+translate korean d03s07_dd58b54a:
 
-    # mc "..."
-    mc "..."
+    # mc "I don't think so. Thanks for thinking of me, but..."
+    mc "그러고 싶지 않아. 날 생각해줘서 고맙긴 하지만..."
 
-# game/code/d03/d03s08.rpy:226
-translate korean replay_d03s08_e74bc882:
+# game/code/d03/d03s07.rpy:193
+translate korean d03s07_aa860c93:
 
-    # pb "Look, it's done."
-    pb "봐, 보냈어."
+    # dw "Then fuck off. {w}Get out of here!"
+    dw "그럼 꺼져. {w}당장 내 눈앞에서 사라져!"
 
-# game/code/d03/d03s08.rpy:228
-translate korean replay_d03s08_46c24dd2:
+# game/code/d03/d03s07.rpy:194
+translate korean d03s07_9c46199b:
 
-    # pb "I... I better go after Dahlia..."
-    pb "난... 난 달리아를 따라가야겠다..."
+    # mc "What? This is my room."
+    mc "뭐? 여긴 내 방이라고."
 
-# game/code/d03/d03s08.rpy:230
-translate korean replay_d03s08_3d562443:
+# game/code/d03/d03s07.rpy:196
+translate korean d03s07_770e0a5e:
 
-    # mc "What the fuck?! Seriously..."
-    mc "뭐라고 씨발?! 실화냐..."
+    # dw "Fine."
+    dw "좋아."
 
-# game/code/d03/d03s08.rpy:232
-translate korean replay_d03s08_79505d0d:
+# game/code/d03/d03s07.rpy:199
+translate korean d03s07_07eef455:
 
-    # dd "Hmmm yea, that was a fuckup... I was so amazed that I would have forgotten about it too..."
-    dd "으으음 그래, 이거 엉망이었네... 난 너무 놀라서 사진 안 찍고 있다는 사실도 의식하지 못할 정도였어..."
+    # mc "Wow!"
+    mc "와!"
 
-# game/code/d03/d03s08.rpy:234
-translate korean replay_d03s08_4857882d:
+# game/code/d03/d03s07.rpy:205
+translate korean d03s07_501b7d69:
 
-    # dd "And looks like you have a bit of a problem there... again."
-    dd "그리고 거기에 약간 문제가 있는 거처럼 보이네... 다시 말야."
+    # pb "Sorry, dude. I thought this would be a good opportunity for you."
+    pb "미안, 짜샤. 난 이게 너한테 좋은 기회라고 생각했어."
 
-# game/code/d03/d03s08.rpy:235
-translate korean replay_d03s08_16139960:
+# game/code/d03/d03s07.rpy:206
+translate korean d03s07_c2c1b417:
 
-    # mc "I guess I do..."
-    mc "내 생각에도 그런 것 같긴 해..."
+    # pb "I better go after her."
+    pb "난 쟤 따라가야겠다."
 
-# game/code/d03/d03s08.rpy:238
-translate korean replay_d03s08_df95298c:
+# game/code/d03/d03s07.rpy:218
+translate korean d03s07_b7f8d560:
 
-    # dd "Well, good luck with that!"
-    dd "그럼, 잘 해 봐!"
+    # dd "Uh oh. Looks like you have a spine."
+    dd "어 오. 줏대가 있는 걸."
 
-# game/code/d03/d03s08.rpy:241
-translate korean replay_d03s08_924e7cee:
+# game/code/d03/d03s07.rpy:220
+translate korean d03s07_4ad25f5d:
 
-    # dd "Don't get the wrong idea. I'm just helping out, not getting involved."
-    dd "오해하진 마. 난 그냥 도와주려는 거지, 얽히려는 게 아냐."
+    # mc "Well, yeah. If one of us is going to kneel it is going to be her."
+    mc "흠, 그래. 우리 중 한 명이 무릎을 꿇어야 한다면 쟤가 꿇어야 할 거야."
 
-# game/code/d03/d03s08.rpy:246
-translate korean replay_d03s08_f0e50dcf:
+# game/code/d03/d03s07.rpy:222
+translate korean d03s07_23b7f41f:
 
-    # dd "Does it feel good when I touch it?"
-    dd "만지니까 기분 좋아?"
+    # dd "Nice. I didn't expect that from you."
+    dd "훌륭해. 네가 그럴 거라곤 상상도 못 했어."
 
-# game/code/d03/d03s08.rpy:252
-translate korean replay_d03s08_b8f729e4:
+# game/code/d03/d03s07.rpy:225
+translate korean d03s07_a3db918b:
 
-    # dd "Look me in the eyes!"
-    dd "내 눈을 봐!"
+    # dd "I have to say, I like it."
+    dd "이 말을 꼭 해야겠는데, 난 마음에 들어."
 
-# game/code/d03/d03s08.rpy:259
-translate korean replay_d03s08_13636eb2:
+# game/code/d03/d03s07.rpy:227
+translate korean d03s07_7a726999:
 
-    # dd "Now just release yourself!"
-    dd "이제 그냥 너 자신을 풀어 줘!"
+    # dd "You might even bring me to my knees sometime."
+    dd "언젠가 네가 나를 무릎 꿇게 할지도 모르겠네."
 
-# game/code/d03/d03s08.rpy:263
-translate korean replay_d03s08_232c3f6d:
+# game/code/d03/d03s07.rpy:231
+translate korean d03s07_06a0e6ea:
 
-    # mc "O-o-oh!"
-    mc "오-오-오!"
+    # dd "But right now I've got places to be!"
+    dd "그런데 난 지금은 갈 곳이 있어서!"
 
-# game/code/d03/d03s08.rpy:266
-translate korean replay_d03s08_88f9ec31:
+# game/code/d03/d03s07.rpy:233
+translate korean d03s07_1fa114d7:
 
-    # dd "It worked! Wow! I like that a lot!"
-    dd "됐네! 와! 이거 정말 마음에 드는 걸!"
-
-# game/code/d03/d03s08.rpy:269
-translate korean replay_d03s08_a59262c2:
-
-    # dd "See you, Lil' Mister Bigcock!"
-    dd "다시 봐, 귀여운 큰좆 아저씨!"
-
-# game/code/d03/d03s08.rpy:282
-translate korean replay_d03s08_2aaffd37:
-
-    # fl "You received points from another user!"
-    fl "다른 이용자로부터 점수를 받으셨습니다!"
-
-# game/code/d03/d03s08.rpy:286
-translate korean replay_d03s08_407e803d:
-
-    # fl "[d03s08_points] points were transferred to you from [pbflname]'s account."
-    fl "[d03s08_points]점이 [pbflname]의 잔고에서 보내졌습니다."
-
-# game/code/d03/d03s08.rpy:287
-translate korean replay_d03s08_9e5595c3:
-
-    # mc "Motherfucker..."
-    mc "씹새끼..."
-
-# game/code/d03/d03s08.rpy:288
-translate korean replay_d03s08_e63e4a96:
-
-    # mct "Pete only transferred me a lousy [d03s08_points] points."
-    mct "피트는 졸라 조금인 [d03s08_points]점만 보냈다."
-
-# game/code/d03/d03s08.rpy:290
-translate korean replay_d03s08_70b804fe:
-
-    # mct "On the other hand it brings me exactly to 50 points. At least I can go to the party."
-    mct "그래도 이제 50점을 갖게 되었군. 최소한 파티에는 갈 수 있어."
-
-# game/code/d03/d03s08.rpy:297
-translate korean d03s08_isaidno_186867a7:
-
-    # dw "Disappointing. {w}Goodbye."
-    dw "실망스럽군. {w}안녕."
-
-# game/code/d03/d03s08.rpy:302
-translate korean d03s08_isaidno_2a252a40:
-
-    # pb "Dude, you couldn't just go along with it? {w}I better go after her."
-    pb "새꺄, 그냥 맞춰주면 안 되냐? {w}난 쟤 따라가야겠다."
-
-# game/code/d03/d03s08.rpy:304
-translate korean d03s08_isaidno_075311e7:
-
-    # dd "It is sad that you couldn't commit to the finish..."
-    dd "니가 끝까지 못 가서 아쉬워..."
-
-# game/code/d03/d03s08.rpy:306
-translate korean d03s08_isaidno_a59262c2:
-
-    # dd "See you, Lil' Mister Bigcock!"
-    dd "또 봐, 귀여운 큰좆 아저씨!"
-
-# game/code/d03/d03s08.rpy:321
-translate korean d03s08_FL_65229281:
-
-    # fl "Daily Challenge Winners: Squizzle & Mr. Dicky"
-    fl "일일 도전 승자: 스퀴즐 & 미스터 ㄷI키"
-
-# game/code/d03/d03s08.rpy:323
-translate korean d03s08_FL_c1fa40af:
-
-    # mct "Looks like Min & Antony won again."
-    mct "민이랑 앤토니가 또 이긴 모양이네."
-
-# game/code/d03/d03s08.rpy:325
-translate korean d03s08_FL_4fbb67b5:
-
-    # mct "It's not the first time I've seen these winners."
-    mct "이 승자를 보는 게 처음도 아니잖아."
-
-# game/code/d03/d03s08.rpy:327
-translate korean d03s08_FL_ab071477:
-
-    # mct "Damn it. If Pete had only taken pics like he said he would, I might have won this time."
-    mct "망할. 피트가 지가 말한 대로 사진을 찍기만 했으면, 이번에는 내가 이겼을 수도 있는데."
-
-# game/code/d03/d03s08.rpy:329
-translate korean d03s08_FL_2a2f6d5f:
-
-    # mct "Good for them, I guess."
-    mct "걔들은 운도 좋아, 정말로."
+    # dd "See ya' on the party!"
+    dd "파티에서 보자!"
 
 translate korean strings:
 
-    # game/code/d03/d03s08.rpy:47
-    old "Yes, Mistress"
-    new "예, 여왕님"
+    # game/code/d03/d03s07.rpy:177
+    old "Agree - I want Femdom Foot Worship"
+    new "동의한다 - 난 여성 지배 발 숭배를 원한다"
 
-    # game/code/d03/d03s08.rpy:47
-    old "What the fuck?"
-    new "뭐라고 씨발?"
+    # game/code/d03/d03s07.rpy:177
+    old "Agree - I really need the points"
+    new "동의한다 - 난 진짜 점수가 필요하다"
 
-    # game/code/d03/d03s08.rpy:57
-    old "Hmmm... Why?"
-    new "으으음... 왜?"
-
-    # game/code/d03/d03s08.rpy:67
-    old "Um... Yes, Mistress"
-    new "음... 예, 여왕님"
-
-    # game/code/d03/d03s08.rpy:67
-    old "Fuck that, No!"
-    new "씨발 그건, 싫어!"
-
-    # game/code/d03/d03s08.rpy:110
-    old "Submit"
-    new "복종한다"
-
-    # game/code/d03/d03s08.rpy:110
-    old "Refuse"
-    new "거절한다"
+    # game/code/d03/d03s07.rpy:177
+    old "Refuse. I want to dominate, not to submit"
+    new "거절한다. 난 지배하고 싶지, 복종하긴 싫다"
 
