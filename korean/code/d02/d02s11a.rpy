@@ -1,216 +1,504 @@
-# game/code/d02/d02s11a.rpy:72
-translate korean replay_d02s11a_44587410:
+# game/code/d02/d02s10.rpy:53
+translate korean d02s10_2433015c:
 
-    # "07:30 PM"
-    "오후 07:30"
+    # "6:00 PM"
+    "오후 6:00"
 
-# game/code/d02/d02s11a.rpy:83
-translate korean replay_d02s11a_89c09a5e:
+# game/code/d02/d02s10.rpy:64
+translate korean d02s10_c3b2571a:
 
-    # mc "Hey! How you doin'?"
-    mc "자, 지금 기분이 어때요?"
+    # mc "It's done. All as you instructed!"
+    mc "네가 말한 대로 다 했어!"
 
-# game/code/d02/d02s11a.rpy:84
-translate korean replay_d02s11a_3b305080:
+# game/code/d02/d02s10.rpy:65
+translate korean d02s10_100acbb8:
 
-    # nk "Honestly, I'm kinda nervous."
-    nk "솔직히 말하면, 좀 긴장되네."
+    # pw "Then wait for her to call you!"
+    pw "그럼 이제 전화만 기다리면 되겠네!"
 
-# game/code/d02/d02s11a.rpy:86
-translate korean replay_d02s11a_c4e9446f:
+# game/code/d02/d02s10.rpy:66
+translate korean d02s10_817f412d:
 
-    # mc "I'd be nervous too, but with no fear there's no bravery."
-    mc "저도 긴장돼요. 그래도, 두려움이 없다면 용기도 없는 거예요."
+    # mct "Okay, let's wait."
+    mct "그래, 기다려 보자구."
 
-# game/code/d02/d02s11a.rpy:87
-translate korean replay_d02s11a_cd297749:
+# game/code/d02/d02s10.rpy:68
+translate korean d02s10_d4b702f9:
 
-    # nkt "That's true, if I want to expand myself I have to be strong."
-    nkt "그래, 맞아. 새로운 체험을 하려면 마음을 굳게 먹어야겠지."
+    # mct "How am I going to find some pussy?"
+    mct "어떻게 하면 보지를 찾을 수 있을까?"
 
-# game/code/d02/d02s11a.rpy:89
-translate korean replay_d02s11a_d05d5830:
+# game/code/d02/d02s10.rpy:69
+translate korean d02s10_f3e99c12:
 
-    # nk "Alright, I guess the time has come."
-    nk "좋아, 이제 시간이 된 거 같네."
+    # mct "I really need those points. I need to get to that party."
+    mct "그 파티에 가려면 점수가 꼭 필요해."
 
-# game/code/d02/d02s11a.rpy:91
-translate korean replay_d02s11a_290c8ce0:
+# game/code/d02/d02s10.rpy:70
+translate korean d02s10_4a479081:
 
-    # mc "Perfect, let me put this on you and I'll leave."
-    mc "좋아요. 그럼 저는 안대를 해 드리고 나갈게요."
+    # mct "Gah! I’m too horny to think straight."
+    mct "그악! 너무 꼴려서 생각도 제대로 못하겠어."
 
-# game/code/d02/d02s11a.rpy:92
-translate korean replay_d02s11a_a8e4a282:
+# game/code/d02/d02s10.rpy:72
+translate korean d02s10_6cb69cbf:
 
-    # mct "I hope this works for Polly."
-    mct "이게 폴리한테 먹히면 좋겠는데."
+    # mct "What to do?"
+    mct "이제 뭘 하지?"
 
-# game/code/d02/d02s11a.rpy:94
-translate korean replay_d02s11a_de419cd6:
+# game/code/d02/d02s10.rpy:75
+translate korean d02s10_256c9389:
 
-    # nk "I can trust you?"
-    nk "믿어도 되지?"
+    # mct "What was this website that AmRose was watching?"
+    mct "앰로즈가 보던 그 사이트 이름이 뭐였더라?"
 
-# game/code/d02/d02s11a.rpy:95
-translate korean replay_d02s11a_c370cb70:
+# game/code/d02/d02s10.rpy:77
+translate korean d02s10_a5e45de9:
 
-    # mc "Sure! No reason to worry."
-    mc "당연하죠! 걱정 안 해도 돼요."
+    # mct "CamPornHub?"
+    mct "캠폰허브?"
 
-# game/code/d02/d02s11a.rpy:98
-translate korean replay_d02s11a_6e4f644a:
+# game/code/d02/d02s10.rpy:78
+translate korean d02s10_649c1076:
 
-    # nk "You won't be very far right?"
-    nk "엄청 멀리 가진 않을 거지?"
+    # mct "Cam ... Portal ... Tube?"
+    mct "캠... 포털... 튜브?"
 
-# game/code/d02/d02s11a.rpy:99
-translate korean replay_d02s11a_0dd49b01:
+# game/code/d02/d02s10.rpy:80
+translate korean d02s10_ee4be931:
 
-    # mc "I'll stay close if you want me to!"
-    mc "노라가 원하면 가까이 있을게요!"
+    # mct "CamTubePortal...{w} yep, that was it... {w} and..."
+    mct "캠튜브포털...{w} 그래, 이거였지... {w} 그리고..."
 
-# game/code/d02/d02s11a.rpy:100
-translate korean replay_d02s11a_1c6e3b24:
+# game/code/d02/d02s10.rpy:84
+translate korean d02s10_c5bc4f2a:
 
-    # nk "Please."
-    nk "그렇게 해 줘."
+    # mct "Here it is!"
+    mct "여기 있다!"
 
-# game/code/d02/d02s11a.rpy:102
-translate korean replay_d02s11a_60ea808d:
+# game/code/d02/d02s10.rpy:85
+translate korean d02s10_83072ff9:
 
-    # mc "You will just have to stay here."
-    mc "노라는 그냥 거기에 있기만 하면 돼요."
+    # mct "So this is the porn that AmRose is watching?"
+    mct "그래 이게 앰로즈가 보던 그 포르노 사이트란 말이지?"
 
-# game/code/d02/d02s11a.rpy:104
-translate korean replay_d02s11a_0a50dea6:
+# game/code/d02/d02s10.rpy:86
+translate korean d02s10_af2b035f:
 
-    # mc "And put your hands on the counter. No matter what, your hands need to remain on the counter. {w}Understood?"
-    mc "그리고 양손은 매대에 올리시구요. 무슨 일이 있어도, 매대에서 손을 떼면 안 돼요. {w}알겠죠?"
+    # mct "It's very hot to discover someone else's fetish. Like porn that's enjoyed by someone I know very well."
+    mct "다른 사람 성벽을 알게 되는 건 엄청 꼴리지. 내가 엄청 잘 아는 사람이 즐기는 포르노를 발견하는 것도 그렇고."
 
-# game/code/d02/d02s11a.rpy:105
-translate korean replay_d02s11a_18de85d7:
+# game/code/d02/d02s10.rpy:87
+translate korean d02s10_54e9eeef:
 
-    # nk "Yeah, but now I'm a bit scared!"
-    nk "알겠어, 근데 나 지금 좀 무서운데!"
+    # mct "Ohhh! Did my [game.stacytitle] feel the same way when she found my porn?"
+    mct "오오오! 내 [game.stacytitle]도 내 포르노를 찾았을 때 이런 느낌이었을까?"
 
-# game/code/d02/d02s11a.rpy:106
-translate korean replay_d02s11a_e33becd0:
+# game/code/d02/d02s10.rpy:88
+translate korean d02s10_b817613b:
 
-    # mc "Just keep your hand on the counter. If you remove them, the date is over."
-    mc "매대에 손을 올려 두기만 하면 돼요. 손을 떼면, 데이트는 끝이예요."
+    # mct "Okay let's see what kind of porn AmRose likes to watch."
+    mct "좋았어. 앰로즈가 좋아하는 포르노가 뭔지 봐 보실까."
 
-# game/code/d02/d02s11a.rpy:107
-translate korean replay_d02s11a_b96629d2:
+# game/code/d02/d02s10.rpy:95
+translate korean d02s10_171b8316:
 
-    # nk "Oh..."
-    nk "오..."
+    # mct "Wait! I know this room!"
+    mct "잠깐만! 내가 아는 방인데!"
 
-# game/code/d02/d02s11a.rpy:115
-translate korean replay_d02s11a_8f2df490:
+# game/code/d02/d02s10.rpy:103
+translate korean d02s10_0d6549e3:
 
-    # pwt "She looks so sexy with that blindfold"
-    pwt "안대를 하고 있으니까 정말 섹시한걸."
+    # mct "I recognize that couch..."
+    mct "그래 이 소파 눈에 익어..."
 
-# game/code/d02/d02s11a.rpy:123
-translate korean replay_d02s11a_5d541604:
+# game/code/d02/d02s10.rpy:106
+translate korean d02s10_feb403ef:
 
-    # pwt "I want to talk dirty to her so bad! But I can't let her know I'm a girl"
-    pwt "야한 말을 해 주고 싶어 죽겠어! 하지만 내가 여라자는 걸 알게 할 수는 없지."
+    # mct "Whoa!{w} There she is...{w} oh shit, that is AmRose!!"
+    mct "우와!{w} 이 여자는...{w} 오, 씨발, 이건 앰로즈잖아!!"
 
-# game/code/d02/d02s11a.rpy:132
-translate korean replay_d02s11a_afed06a9:
+# game/code/d02/d02s10.rpy:109
+translate korean d02s10_093143f0:
 
-    # nkt "No one had ever touched me like this... {w}before ..."
-    nkt "이렇게 나를 만지는 사람은 난생... {w}처음이야..."
+    # mct "I came on her while she was sleeping on that couch."
+    mct "내가 앰로즈 위에 쌌을 때 그 소파야."
 
-# game/code/d02/d02s11a.rpy:146
-translate korean replay_d02s11a_b27ea231:
+# game/code/d02/d02s10.rpy:111
+translate korean d02s10_b3dd6cca:
 
-    # pwt "I know you're not into girls, I'm gonna change that... {w}and you'll love it."
-    pwt "당신이 여자에게 끌리지 않는다는 점은 잘 알아, 이제 내가 그 점을 바꿔 줄 거야... {w}그렇게 당신도 그렇게 변하는 걸 좋아하게 되겠지."
+    # mct "Is she streaming porn?!"
+    mct "앰로즈가 포르노를 스트리밍 하는 거야?!"
 
-# game/code/d02/d02s11a.rpy:163
-translate korean replay_d02s11a_db64f897:
+# game/code/d02/d02s10.rpy:113
+translate korean d02s10_792449e2:
 
-    # pwt "She is really enjoying this, after all, she might like girls, in some way."
-    pwt "정말 즐기는데, 결국, 노라도 여잘 좋아하긴 하네, 어떤 방식에서는 말이지."
+    # mct "That is so unlike the shy AmRose I know!"
+    mct "이건 내가 아는 그 부끄럼쟁이 앰로즈 같지 않잖아!"
 
-# game/code/d02/d02s11a.rpy:187
-translate korean replay_d02s11a_1f3c4069:
+# game/code/d02/d02s10.rpy:120
+translate korean d02s10_7ce36cb4:
 
-    # nk "M-m-m-m!"
-    nk "음-음-음-음!"
+    # mct "Wow! AmRose is hot!"
+    mct "와! 앰로즈 섹시한데!"
 
-# game/code/d02/d02s11a.rpy:191
-translate korean replay_d02s11a_d7736890:
+# game/code/d02/d02s10.rpy:130
+translate korean d02s10_61695b82:
 
-    # nk "A-a-a-h!"
-    nk "아-아-아-흐!"
+    # mct "I guess it wouldn’t hurt if I fap a bit as long as no one else knows."
+    mct "내가 친구를 보고 딸을 쳐도 괜찮을 거야. 아무도 모르기만 한다면 말이지."
 
-# game/code/d02/d02s11a.rpy:241
-translate korean replay_d02s11a_b5e65b96:
+# game/code/d02/d02s10.rpy:142
+translate korean d02s10_d39d18f4:
 
-    # nk "It was you?"
-    nk "이거 너였어?"
+    # mct "That lingerie looks so good on her!"
+    mct "저 란제리 정말 잘 어울린다!"
 
-# game/code/d02/d02s11a.rpy:243
-translate korean replay_d02s11a_2b1d5777:
+# game/code/d02/d02s10.rpy:143
+translate korean d02s10_038df53c:
 
-    # nk "What you did to me was amazing; you were right about trying new things."
-    nk "나한테 해 준 거 정말 대단했어. 새로운 걸 시도해 보는 게 맞았어."
+    # mct "She knows how to tease!"
+    mct "몸을 달게 하는 법을 아는걸!"
 
-# game/code/d02/d02s11a.rpy:244
-translate korean replay_d02s11a_1d26c9f3:
+# game/code/d02/d02s10.rpy:160
+translate korean d02s10_154cba3d:
 
-    # mc "It wasn't me. I told you it was gonna be a blind date, didn't I?"
-    mc "제가 아니었어요. 이거 소개팅이라고 말했잖아요, 그렇죠?"
+    # mct "She's surprised me a lot! I didn't expect that from her!"
+    mct "세상에 앰로즈한테 저런 모습이 있었다니! 얘가 저런 짓을 하고 있다곤 상상도 못했는데!"
 
-# game/code/d02/d02s11a.rpy:245
-translate korean replay_d02s11a_831c4e99:
+# game/code/d02/d02s10.rpy:174
+translate korean d02s10_249ab9d0:
 
-    # nk "If you didn't ... who was it?"
-    nk "네가 한 게 아니라면... 방금 누가 한 거야?"
+    # mct "How far will she go? Will she actually undress?? {w} Will I see her naked?!"
+    mct "어디까지 갈까? 진짜 옷까지 벗을까?? {w} 앰로즈의 알몸을 보게 되는 건가?!"
 
-# game/code/d02/d02s11a.rpy:246
-translate korean replay_d02s11a_2bbe14d6:
+# game/code/d02/d02s10.rpy:180
+translate korean d02s10_54153b11:
 
-    # mc "That will stay secret for now."
-    mc "그건 당분간 비밀이에요."
+    # mct "Wow, seems like she is going to get rid of this maid costume!"
+    mct "와, 이제 메이드 의상을 벗으려나 본데!"
 
-# game/code/d02/d02s11a.rpy:247
-translate korean replay_d02s11a_a0c93461:
+# game/code/d02/d02s10.rpy:182
+translate korean d02s10_f9735392:
 
-    # mc "Are you Okay? You were off this planet for a while."
-    mc "괜찮아요? 잠깐 지구를 떠난 것 같았다구요."
+    # mct "Let’s find something new to watch ... for research purposes."
+    mct "새로운 거나 찾아보자... 조사용으로."
 
-# game/code/d02/d02s11a.rpy:249
-translate korean replay_d02s11a_9c96da1c:
+# game/code/d02/d02s10.rpy:183
+translate korean d02s10_151dd328:
 
-    # nk "Yes! Don't worry."
-    nk "응! 걱정하지 마."
+    # mct "Camgirls ... Camsluts ..."
+    mct "캠걸... 캠슬럿..."
 
-# game/code/d02/d02s11a.rpy:250
-translate korean replay_d02s11a_fbc435bb:
+# game/code/d02/d02s10.rpy:184
+translate korean d02s10_81ec9765:
 
-    # nkt "Who was that? {w}I'm so confused. {w}It was nice though... {w}I need that again."
-    nkt "아까 누구였지? {w}정말 모르겠어... {w}그래도 좋았잖아... {w}다시 하고 싶어."
+    # mct "Camwhores ... KinkyCams ..."
+    mct "캠호... 킹키캠 ..."
 
-# game/code/d02/d02s11a.rpy:251
-translate korean replay_d02s11a_5f34dcb0:
+# game/code/d02/d02s10.rpy:187
+translate korean d02s10_ef629249:
 
-    # mc "I will leave you to process what you just experienced!"
-    mc "노라가 방금 경험한 걸 소화할 수 있게, 저는 가 볼게요!"
+    # mct "Hmm, CamTubePortal... {w}well this one is new to me."
+    mct "으음, 캠튜브포털... {w}흠, 이건 처음 보는데."
 
-# game/code/d02/d02s11a.rpy:254
-translate korean replay_d02s11a_962c7c2b:
+# game/code/d02/d02s10.rpy:203
+translate korean d02s10_8c6c2132:
 
-    # mc "Have a terrific night!"
-    mc "멋진 밤 보내세요!"
+    # mct "This girl is nice!"
+    mct "얘 좋은걸!"
 
-# game/code/d02/d02s11a.rpy:255
-translate korean replay_d02s11a_df2a9f3f:
+# game/code/d02/d02s10.rpy:215
+translate korean d02s10_5820052b:
 
-    # nk "You too! I hope we will see each other again soon!"
-    nk "너도! 조만간 또 보길 바라!"
+    # mct "She's teasing a lot, without actually undressing!"
+    mct "옷을 벗지도 않았는데, 엄청 몸을 달게 하네!"
+
+# game/code/d02/d02s10.rpy:242
+translate korean d02s10_ab4f697e:
+
+    # mct "Whoa!{w} That looks like... {w} no, it isn’t her."
+    mct "워!{w} 저거 누굴 닮은 거 같은데... {w} 아냐, 아니겠지."
+
+# game/code/d02/d02s10.rpy:243
+translate korean d02s10_39515aae:
+
+    # mct "For a second there I thought that was AmRose."
+    mct "순간 앰로즈라고 생각했네."
+
+# game/code/d02/d02s10.rpy:246
+translate korean d02s10_0bb04066:
+
+    # mct "Not that I find AmRose attractive...{w} this camwhore isn’t all that either."
+    mct "앰로즈는 이렇게 매력적이지 않잖아...{w} 이 여캠도 그리 매력적인 건 아니지만."
+
+# game/code/d02/d02s10.rpy:247
+translate korean d02s10_73d1f4ff:
+
+    # mct "But it is kinda hot imagining that could be AmRose."
+    mct "그래도 앰로즈일 수도 있다고 생각하니 좀 꼴리는데."
+
+# game/code/d02/d02s10.rpy:249
+translate korean d02s10_300e628c:
+
+    # mct "That’s weird, isn’t it?{w} I wouldn’t fuck AmRose and I wouldn’t fuck this camgirl."
+    mct "이거 좀 이상하네, 그렇지?{w} 난 앰로즈랑 떡칠 것도 아니고 그렇다고 이 여캠이랑 떡칠 것도 아니고 말이야."
+
+# game/code/d02/d02s10.rpy:250
+translate korean d02s10_e00ea774:
+
+    # mct "But I just can’t stop watching this camgirl and thinking it might be AmRose."
+    mct "어쨌든 이 여캠을 보는 것도 멈출 수 없고 이 얘가 앰로즈일 수도 있다고 생각하는 것도 멈출 수가 없어."
+
+# game/code/d02/d02s10.rpy:251
+translate korean d02s10_5ad60719:
+
+    # mct "I even kinda want to fap a bit to this forbidden fruit."
+    mct "이 금단의 과실을 보며 딸딸이나 치고 싶은걸."
+
+# game/code/d02/d02s10.rpy:256
+translate korean d02s10_eb520b40:
+
+    # mct "Wait, where is my phone?"
+    mct "잠깐, 내 폰이 어디있지?"
+
+# game/code/d02/d02s10.rpy:260
+translate korean d02s10_57f84374:
+
+    # nk "Alright, I’m curious."
+    nk "좋아, 궁금해."
+
+# game/code/d02/d02s10.rpy:261
+translate korean d02s10_9030ce95:
+
+    # mc "Curious about what?"
+    mc "뭐에 관심이 있다는 거예요?"
+
+# game/code/d02/d02s10.rpy:262
+translate korean d02s10_e1de5357:
+
+    # nk "I mean I agree. I'll close the cafe for 15 minutes once you get here."
+    nk "내 말은 동의한다고. 네가 여기 오면 카페를 15분 동안 닫을 거야."
+
+# game/code/d02/d02s10.rpy:263
+translate korean d02s10_4db16bed:
+
+    # nk "Not one minute longer. Don’t try anything funny."
+    nk "딱 15분이야. 허튼수작할 생각 말라고."
+
+# game/code/d02/d02s10.rpy:264
+translate korean d02s10_4f0160a8:
+
+    # mc "You can trust me. I’ll be there soon."
+    mc "믿어도 돼요. 금방 갈게요."
+
+# game/code/d02/d02s10.rpy:266
+translate korean d02s10_d8fb6f82:
+
+    # mct "Okay great. I need to tell Polly about this!"
+    mct "좋아, 훌륭해. 이제 폴리한테 말해야겠군!"
+
+# game/code/d02/d02s10.rpy:272
+translate korean d02s10_716148c3:
+
+    # mc "Nora agreed. Meet me outside the cafe asap."
+    mc "노라가 동의했음. 바로 카페 밖에서 만나."
+
+# game/code/d02/d02s10.rpy:274
+translate korean d02s10_7300ceda:
+
+    # mct "Okay! Seems like I'm closer to getting some points today! Let's go and make this blind date happen."
+    mct "좋아! 오늘 점수 좀 딸 수 있겠는걸! 나가서 이 소개팅을 성사시켜 보자구."
+
+# game/code/d02/d02s10.rpy:281
+translate korean d02s10_c940c105:
+
+    # mct "What’s this? Fetish Locator direct message from Squizzle? {w}With image?!"
+    mct "이건 뭐지? 스퀴즐로부터 페티시 로케이터 다이렉트 메시지? {w}사진 첨부?!"
+
+# game/code/d02/d02s10.rpy:282
+translate korean d02s10_b49e91c3:
+
+    # mct "Right, I posted the ad earlier today. I almost forgot about it!"
+    mct "맞아, 오늘 아침에 광고를 올렸지. 까먹고 있었네!"
+
+# game/code/d02/d02s10.rpy:283
+translate korean d02s10_298d7190:
+
+    # mct "Okay, let's see what this is about."
+    mct "좋아, 무슨 내용인지 볼까."
+
+# game/code/d02/d02s10.rpy:286
+translate korean d02s10_c6cfe8c3:
+
+    # mesfl "Hey there! I like your sexy lips! Let's put them to use! I have a pussy that needs some attention! Meet me in the sport hall corridor in 15 minutes."
+    mesfl "이봐! 네 섹시한 입술이 마음에 들어! 그 입술 좀 써 볼까! 내 보지에 보살핌이 필요하거든! 체육관 복도에서 15분 뒤에 보자."
+
+# game/code/d02/d02s10.rpy:287
+translate korean d02s10_015d20de:
+
+    # mct "Wow!"
+    mct "와!"
+
+# game/code/d02/d02s10.rpy:290
+translate korean d02s10_e01aaeca:
+
+    # mct "Squizzle... {w}isn’t that...{w} yeah, that was Min’s username."
+    mct "스퀴즐... {w}이거...{w} 맞아, 민의 사용자명이다."
+
+# game/code/d02/d02s10.rpy:291
+translate korean d02s10_cacb2632:
+
+    # mct "I saw her username as the daily challenge winner yesterday."
+    mct "어제 일일 도전 승자로 뜬 거 봤지."
+
+# game/code/d02/d02s10.rpy:292
+translate korean d02s10_6e3d0e46:
+
+    # mct "So that’s what Min looks like under the skirt."
+    mct "민의 치마 아래는 이런 모습이군."
+
+# game/code/d02/d02s10.rpy:293
+translate korean d02s10_5b5acf3d:
+
+    # mct "I wonder why she couldn’t just get Antony to munch her carpet."
+    mct "민은 앤토니한테 자기 보지 핥아 달라고 하면 되잖아?"
+
+# game/code/d02/d02s10.rpy:295
+translate korean d02s10_de4eb655:
+
+    # mct "I saw this name somewhere."
+    mct "이 이름을 어디에서 봤는데."
+
+# game/code/d02/d02s10.rpy:296
+translate korean d02s10_b1649fc1:
+
+    # mct "Right! It was announced as the winner of the challenge yesterday!"
+    mct "그렇지! 어제 일일 도전 승자로 뜬 이름이다!"
+
+# game/code/d02/d02s10.rpy:297
+translate korean d02s10_a1d5445a:
+
+    # mct "Wow! Yesterday's winner wants me to eat her pussy?"
+    mct "와! 어제 승자가 나보고 자기 보질을 먹어 달라는 거잖아?"
+
+# game/code/d02/d02s10.rpy:299
+translate korean d02s10_c6b69984:
+
+    # mct "At least she's talking business here!"
+    mct "어쨌든 얜 바로 용건을 말하긴 하는군."
+
+# game/code/d02/d02s10.rpy:300
+translate korean d02s10_6ddf750f:
+
+    # mct "Polly wants my help with Nora. But what if she bails on me in the end?"
+    mct "폴리는 자기가 노라 꼬시는 데 내 도움을 원해. 그런데 끝에 가서 날 바람맞히면 어쩌지?"
+
+# game/code/d02/d02s10.rpy:301
+translate korean d02s10_cb43c6ca:
+
+    # mct "Or if the blind date goes wrong. What are my chances to actually get pussy then?"
+    mct "아니면 이 소개팅이 잘못 되면, 내가 다른 보질 구할 수나 있을까?"
+
+# game/code/d02/d02s10.rpy:303
+translate korean d02s10_c87fcc7e:
+
+    # mct "Min, on the other hand, sounds like she's willing to just go straight to the action"
+    mct "반면에 민은 바로 본론으로 들어가고 싶은가 본데."
+
+# game/code/d02/d02s10.rpy:305
+translate korean d02s10_9c85c14c:
+
+    # mct "This Squizzle seems to be ready to jump right into the action!"
+    mct "이 스퀴즐은 바로 본론으로 들어갈 작정인가 봐!"
+
+# game/code/d02/d02s10.rpy:306
+translate korean d02s10_ef12aa0d:
+
+    # mct "But I don't have time to do both!"
+    mct "그런데 둘 다 할 시간은 없어!"
+
+# game/code/d02/d02s10.rpy:307
+translate korean d02s10_7ab3ab7d:
+
+    # mct "I will have to choose one!"
+    mct "하나를 골라야 해!!"
+
+# game/code/d02/d02s10.rpy:311
+translate korean d02s10_563cb6d9:
+
+    # mct "Let's check how AmRose's stream is going before I go."
+    mct "가기 전에 앰로즈 영상이 어떻게 흘러가는지 확인이나 하자."
+
+# game/code/d02/d02s10.rpy:313
+translate korean d02s10_a635648f:
+
+    # mct "Let's see how is the girl on the cam-stream is doing."
+    mct "얘 캠 영상이 어떻게 흘러가는지나 보자."
+
+# game/code/d02/d02s10.rpy:318
+translate korean d02s10_e948966c:
+
+    # mct "Wow! Nice!!"
+    mct "와! 좋은 걸!!"
+
+# game/code/d02/d02s10.rpy:320
+translate korean d02s10_57a81f8b:
+
+    # mct "If I want to get any points today it is time to go!"
+    mct "오늘 점수 좀 따려면 지금 가야 돼!"
+
+# game/code/d02/d02s10.rpy:322
+translate korean d02s10_58714ac6:
+
+    # mct "I would love to see how far AmRose will go with her stream..."
+    mct "앰로즈가 영상에서 어디까지 가는지 보고 싶긴 하다..."
+
+# game/code/d02/d02s10.rpy:324
+translate korean d02s10_d5f9896f:
+
+    # mct "Would love to see more. Maybe another time."
+    mct "더 보고 싶은데. 다음에 봐야지."
+
+# game/code/d02/d02s10.rpy:347
+translate korean d02s10_ed4c984e:
+
+    # mct "No way. I don’t need the points that badly."
+    mct "안 돼. 점수가 그렇게까지 절실한 건 아니야."
+
+# game/code/d02/d02s10.rpy:348
+translate korean d02s10_a0421dca:
+
+    # "A few hours later ..."
+    "몇 시간 뒤..."
+
+# game/code/d02/d02s10.rpy:349
+translate korean d02s10_f1a5f9e3:
+
+    # mct "Damn. I got nothing."
+    mct "망할. 아무것도 얻은 게 없네."
+
+# game/code/d02/d02s10.rpy:350
+translate korean d02s10_ba528765:
+
+    # mc "Maybe I will go for a walk to clear my mind."
+    mc "머리 비우러 산책이나 하러 가자."
+
+translate korean strings:
+
+    # game/code/d02/d02s10.rpy:325
+    old "Go to the Cafe"
+    new "커피숍으로 간다"
+
+    # game/code/d02/d02s10.rpy:325
+    old "Ditch Polly to munch Squizzle"
+    new "폴리를 버리고 스퀴즐을 먹는다"
+
+    # game/code/d02/d02s10.rpy:325
+    old "Go meet & munch Squizzle"
+    new "만나러 가기 & 스퀴즐 먹기"
+
+    # game/code/d02/d02s10.rpy:325
+    old "No Thanks - Do Something Else"
+    new "사양한다. 다른 일을 한다"
 
