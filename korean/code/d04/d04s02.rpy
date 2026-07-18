@@ -1,564 +1,582 @@
-# game/code/d04/d04s02.rpy:24
-translate korean d04s02_01cc8f65:
+# game/code/d04/d04s01.rpy:10
+translate korean d04s01_2ff326bf:
 
-    # "10:30 AM"
-    "오전 10:30"
+    # "Thursday"
+    "목요일"
 
-# game/code/d04/d04s02.rpy:29
-translate korean d04s02_12cfe56d:
+# game/code/d04/d04s01.rpy:11
+translate korean d04s01_b93cca61:
 
-    # mc "Huh, doesn't look like Pete came back last night either."
-    mc "허, 피트도 지난 밤에 안 돌아온 모양이군."
+    # "09:30 AM"
+    "오전 09:30"
 
-# game/code/d04/d04s02.rpy:30
-translate korean d04s02_264118bb:
+# game/code/d04/d04s01.rpy:16
+translate korean d04s01_32373938:
 
-    # dd "How can you tell?"
-    dd "어떻게 안 거야?"
+    # mct "Waking up next to Lydia... the perfect way to start a day."
+    mct "리디아 곁에서 눈을 뜨다니... 이보다 완벽하게 하루를 시작할 순 없을 거야."
 
-# game/code/d04/d04s02.rpy:31
-translate korean d04s02_727477ba:
+# game/code/d04/d04s01.rpy:25
+translate korean d04s01_7b66e4de:
 
-    # mc "A lot of little things. Mostly by the smell."
-    mc "사소하지만 그런 걸 알 수 있는 방법이 많거든. 대개는 걔 냄새로 알 수 있지."
+    # mes "Good morning, sleepy heads."
+    mes "좋은 아침, 잠꾸러기들."
 
-# game/code/d04/d04s02.rpy:32
-translate korean d04s02_ddd02ad8:
+# game/code/d04/d04s01.rpy:28
+translate korean d04s01_64a66dc3:
 
-    # dd "Oh, yeah. He does have a manly odor."
-    dd "아, 맞아. 걘 남자 냄새 같은 게 나지."
+    # lc "Oh! Morning!"
+    lc "아! 좋은 아침!"
 
-# game/code/d04/d04s02.rpy:33
-translate korean d04s02_b5adc9c6:
+# game/code/d04/d04s01.rpy:30
+translate korean d04s01_bc9aca56:
 
-    # mc "And that cologne of his is... pungent."
-    mc "그리고 걔의 그 오드콜로뉴 냄새는 ... 코를 톡 쏘지."
+    # mes "Breakfast is ready. Get it while it is hot."
+    mes "아침 식사 다 됐어. 식기 전에 와서 먹으라고."
 
-# game/code/d04/d04s02.rpy:35
-translate korean d04s02_d7300822:
+# game/code/d04/d04s01.rpy:31
+translate korean d04s01_759a0756:
 
-    # dd "Ha! That too."
-    dd "하! 그것도 있지."
+    # mc "Breakfast? Awesome, we'll be right there!"
+    mc "아침 식사? 최곤데, 금방 갈게!"
 
-# game/code/d04/d04s02.rpy:36
-translate korean d04s02_a0ad5e21:
+# game/code/d04/d04s01.rpy:34
+translate korean d04s01_45caec16:
 
-    # mc "Cool. I'm going to grab a shower."
-    mc "좋아. 난 샤워 좀 할게."
+    # mct "Lydia's still freshening up, but I don't need to wait for her."
+    mct "리디아는 아직 씻는 중이지만, 굳이 기다릴 필요는 없겠지."
 
-# game/code/d04/d04s02.rpy:37
-translate korean d04s02_20513a43:
+# game/code/d04/d04s01.rpy:35
+translate korean d04s01_d582dbe5:
 
-    # dd "That's a good idea. I need to find my change of clothes..."
-    dd "그거 좋은 생각이네. 난 갈아입을 옷을 찾아겠다..."
+    # mes "I got used to it by the end... but I'm really sore now!..."
+    mes "끝에 가서는 익숙해지긴 했는데... 지금도 엄청 쓰려!..."
 
-# game/code/d04/d04s02.rpy:45
-translate korean d04s02_05540121:
+# game/code/d04/d04s01.rpy:36
+translate korean d04s01_852d6b52:
 
-    # mct "Should I ask her to join me?"
-    mct "나랑 같이 샤워를 하자고 물어볼까?"
+    # mc "Good morning, ladies."
+    mc "좋은 아침, 숙녀분들."
 
-# game/code/d04/d04s02.rpy:46
-translate korean d04s02_88df3aff:
+# game/code/d04/d04s01.rpy:38
+translate korean d04s01_c2ee3125:
 
-    # mct "No, probably not. I was thinking with my dick."
-    mct "아냐, 아마도 안 될 거야. 좆 때문에 이런 생각을 하는 거야."
+    # mes "Morning!"
+    mes "좋은 아침!"
 
-# game/code/d04/d04s02.rpy:47
-translate korean d04s02_3edde5d2:
+# game/code/d04/d04s01.rpy:41
+translate korean d04s01_2d7b7833:
 
-    # mct "Things are going well with Lydia and..."
-    mct "리디아랑은 일이 잘 풀렸어 그리고..."
+    # aw "Hey there sexy!"
+    aw "어이, 섹시한걸!"
 
-# game/code/d04/d04s02.rpy:53
-translate korean replay_d04s02_841202af:
+# game/code/d04/d04s01.rpy:42
+translate korean d04s01_c9daa583:
 
-    # dd "There's enough space for both of us, right?"
-    dd "우리 둘이 써도 공간 충분하지, 그렇지?"
+    # mc "That is my line! Happy to meet you without the mask, Allison!"
+    mc "그건 내 대사지! 가면 없이 맨얼굴로 보니 반가워, 앨리슨!"
 
-# game/code/d04/d04s02.rpy:59
-translate korean replay_d04s02_015d20de:
+# game/code/d04/d04s01.rpy:44
+translate korean d04s01_5a556d1c:
 
-    # mct "Wow!"
-    mct "와!"
+    # aw "Hey there [mclogin]!"
+    aw "안녕, [mclogin]!"
 
-# game/code/d04/d04s02.rpy:62
-translate korean replay_d04s02_1ef87541:
+# game/code/d04/d04s01.rpy:45
+translate korean d04s01_bcdc037b:
 
-    # dd "What? Never seen a naked girl?"
-    dd "뭐야? 벗은 여자애 처음 봐?"
+    # mc "Hey there, is it still Allison?"
+    mc "안녕, 지금도 앨리슨이라고 불러도 돼?"
 
-# game/code/d04/d04s02.rpy:80
-translate korean replay_d04s02_49bc0484:
+# game/code/d04/d04s01.rpy:46
+translate korean d04s01_50e0e838:
 
-    # dd "Hey, move aside, I need this shower as well!"
-    dd "야, 옆으로 좀 비켜 봐, 나도 이 샤워기가 필요하다구!"
+    # aw "Absolutely!"
+    aw "당연하지!"
 
-# game/code/d04/d04s02.rpy:82
-translate korean replay_d04s02_ae9053df:
+# game/code/d04/d04s01.rpy:47
+translate korean d04s01_bcd46041:
 
-    # dd "You can watch if you want."
-    dd "보고 싶으면 봐도 돼."
+    # mc "I'm [mcname]!"
+    mc "난 [mcname]!"
 
-# game/code/d04/d04s02.rpy:87
-translate korean replay_d04s02_23ccac6c:
+# game/code/d04/d04s01.rpy:48
+translate korean d04s01_09dcdb5f:
 
-    # mct "I should get going..."
-    mct "이제 나가야지..."
+    # aw "Pleasure to meet you!"
+    aw "만나서 반가워!"
 
-# game/code/d04/d04s02.rpy:94
-translate korean d04s02_domdbj_d89bd8c8:
+# game/code/d04/d04s01.rpy:50
+translate korean d04s01_6965cc8e:
 
-    # mc "I might be willing to share this space with you... {w}if you provide me a small service."
-    mc "기꺼이 너랑 같이 샤워하긴 할 건데... {w}네가 나한테 작은 선물을 제공해 준다면 말야."
+    # mes "Hey [mcname], you simply must tell me..."
+    mes "야, [mcname], 네가 나한테 반드시 털어놔야 하는 게..."
 
-# game/code/d04/d04s02.rpy:96
-translate korean d04s02_domdbj_1f3c4057:
+# game/code/d04/d04s01.rpy:54
+translate korean d04s01_99a437d9:
 
-    # dd "What could I possibly do?"
-    dd "내가 뭘 하면 되는데?"
+    # lc "Good morning!"
+    lc "좋은 아침!"
 
-# game/code/d04/d04s02.rpy:98
-translate korean d04s02_domdbj_c7295d41:
+# game/code/d04/d04s01.rpy:55
+translate korean d04s01_870d973f:
 
-    # mc "Finish what you started last night. Bring me to completion."
-    mc "지난밤에 네가 시작한 거 끝내. 날 완성시켜 줘."
+    # mes "Hey Lydia! How did you sleep last night?"
+    mes "어이 리디아! 어젯밤에 잠은 잘 잤어?"
 
-# game/code/d04/d04s02.rpy:100
-translate korean d04s02_domdbj_ff3cbc98:
+# game/code/d04/d04s01.rpy:57
+translate korean d04s01_bd33587b:
 
-    # mc "Nothing too difficult... Just make me cum."
-    mc "그렇게 어려운 일은 아냐... 그냥 날 싸게 해 주면 돼."
+    # lc "Good, great even... but now I'm super late for my class..."
+    lc "잘 잤지, 아주 푹 잤어... 수업엔 엄청 늦었지만..."
 
-# game/code/d04/d04s02.rpy:103
-translate korean d04s02_domdbj_2dc5e232:
+# game/code/d04/d04s01.rpy:59
+translate korean d04s01_2d6152ef:
 
-    # dd "Yay! {w}Please, instruct me!"
-    dd "예이! {w}부디, 저에게 명령을 내려주세요!"
+    # lc "I'll just grab some fruit and run."
+    lc "난 과일만 챙겨서 바로 갈게."
 
-# game/code/d04/d04s02.rpy:106
-translate korean d04s02_domdbj_b955bf81:
+# game/code/d04/d04s01.rpy:61
+translate korean d04s01_90def862:
 
-    # mc "To begin with - get down on your knees."
-    mc "이거부터 시작하자 - 내 앞에 무릎 꿇어라."
+    # mc "Hey Lydia, would you like some coffee?"
+    mc "리디아, 커피 좀 마실래?"
 
-# game/code/d04/d04s02.rpy:109
-translate korean d04s02_domdbj_a8bb7242:
+# game/code/d04/d04s01.rpy:63
+translate korean d04s01_57025c4c:
 
-    # dd "Like this?"
-    dd "이렇게?"
+    # lc "Nah, I'm late enough already."
+    lc "괜찮아, 나 이미 충분히 늦었어."
 
-# game/code/d04/d04s02.rpy:110
-translate korean d04s02_domdbj_d88303f6:
+# game/code/d04/d04s01.rpy:64
+translate korean d04s01_61414f9a:
 
-    # mc "Yes, exactly like that."
-    mc "그래, 바로 그렇게."
+    # mc "No, I mean... Would you like to go get some coffee with me... later today?"
+    mc "아니, 내 말은... 나랑 같이 커피 한잔 할래... 늦게라도?"
 
-# game/code/d04/d04s02.rpy:113
-translate korean d04s02_domdbj_71df6f34:
+# game/code/d04/d04s01.rpy:66
+translate korean d04s01_855e0f06:
 
-    # dd "What am I to do next?"
-    dd "이 다음엔 뭘 하면 돼?"
+    # lc "Where? Like at the cafeteria?"
+    lc "어디서? 구내식당에서?"
 
-# game/code/d04/d04s02.rpy:114
-translate korean d04s02_domdbj_7741d64c:
+# game/code/d04/d04s01.rpy:67
+translate korean d04s01_024b9e89:
 
-    # mc "Now you are going to suck me. {w}Consider it a high-protein breakfast."
-    mc "넌 이제 날 빨 거야. {w}이걸 고-단백 아침 식사라고 여기라고."
+    # mc "I know just the place. Do you know Nora's coffee house?"
+    mc "내가 딱 좋은 곳을 알거든. 노라의 커피 하우스 알아?"
 
-# game/code/d04/d04s02.rpy:116
-translate korean d04s02_domdbj_533be223:
+# game/code/d04/d04s01.rpy:68
+translate korean d04s01_25a272c3:
 
-    # dd "Breakfast sounds good!"
-    dd "아침 식사라 좋은 소식이네!"
+    # lc "I haven't been there... {w}I think I know where it is, though."
+    lc "거기 가 본 적은 없는데... {w}어딘지는 알 것 같아."
 
-# game/code/d04/d04s02.rpy:118
-translate korean d04s02_domdbj_f716c095:
+# game/code/d04/d04s01.rpy:69
+translate korean d04s01_3445ea40:
 
-    # dd "I don't want to leave hungry!"
-    dd "배고픈 채로 있기 싫었거든!"
+    # mc "Maybe we could meet there later?"
+    mc "그럼 우리 거기에서 나중에 만날까?"
 
-# game/code/d04/d04s02.rpy:119
-translate korean d04s02_domdbj_35a6a1e7:
+# game/code/d04/d04s01.rpy:72
+translate korean d04s01_46036b68:
 
-    # mc "Then you better get started."
-    mc "그럼 이제 시작하는 게 좋을 거야."
+    # lc "Sure! Why not! After all, I owe you after yesterday!"
+    lc "그래! 안 될 거 없지! 어쨌든, 어제 일로 너한테 신세도 졌는걸!"
 
-# game/code/d04/d04s02.rpy:121
-translate korean d04s02_domdbj_4077cdee:
+# game/code/d04/d04s01.rpy:73
+translate korean d04s01_a27c4d25:
 
-    # dd "Please, [mcname], may I lick it first?"
-    dd "부디, [mcname] 님, 제가 이걸 먼저 핥아도 될까요?"
+    # mc "Great! I'll text you!"
+    mc "훌륭해! 내가 문자 할게!"
 
-# game/code/d04/d04s02.rpy:122
-translate korean d04s02_domdbj_c44edadc:
+# game/code/d04/d04s01.rpy:74
+translate korean d04s01_c1277406:
 
-    # mc "You may, but don't delay too long."
-    mc "그렇게 해라, 단 너무 지체하진 말도록."
+    # lc "See you!"
+    lc "이따 봐!"
 
-# game/code/d04/d04s02.rpy:133
-translate korean d04s02_domdbj_fe3b6c4b:
+# game/code/d04/d04s01.rpy:77
+translate korean d04s01_f9dfb702:
 
-    # dd "Hello!"
-    dd "안녕!"
+    # mes "Ok, [mcname], spill! you have to tell me about this!!"
+    mes "좋아, [mcname], 다 불어! 도대체 무슨 일인지 당장 말하라고!!"
 
-# game/code/d04/d04s02.rpy:134
-translate korean d04s02_domdbj_de5d88f2:
+# game/code/d04/d04s01.rpy:78
+translate korean d04s01_e82d54ec:
 
-    # mc "Suck it!"
-    mc "빨아라!"
+    # mes "Yesterday you barely knew my best friend, but now it seems you {b}know{/b} her so well she owes you..."
+    mes "어제까지만 해도 내 절친이랑 거의 알지도 못하는 사이였는데, 이젠 네가 리디아를 속속들이 {b}아는{/b} 사이가 된 것 같단 말이야. 게다가 신세도 졌다니..."
 
-# game/code/d04/d04s02.rpy:137
-translate korean d04s02_domdbj_fb2e33cb:
+# game/code/d04/d04s01.rpy:79
+translate korean d04s01_5ee68a23:
 
-    # dd "Yes, sir!"
-    dd "네, 주인님!"
+    # mc "No-no! It is not anything like that!"
+    mc "아니, 아냐! 이건 그런 거 전혀 아니라고!"
 
-# game/code/d04/d04s02.rpy:158
-translate korean d04s02_domdbj_232c3f6d:
+# game/code/d04/d04s01.rpy:81
+translate korean d04s01_108f6fe1:
 
-    # mc "O-o-oh!"
-    mc "오-오-오오!"
+    # mes "But something did happen! You both bailed on my show and ended up in bed together."
+    mes "그래도 뭔가 있었잖아! 너흰 내 공연에서 빠져나가더니, 결국 같은 침대에서 잤으면서."
 
-# game/code/d04/d04s02.rpy:172
-translate korean d04s02_domdbj_b473970a:
+# game/code/d04/d04s01.rpy:82
+translate korean d04s01_a5b968db:
 
-    # mc "There you go!"
-    mc "잘 했어!"
+    # mc "Yeah, well, no. I mean... we just got to talking, kept talking all night, and then... well, we fell asleep."
+    mc "그래, 음, 아니야. 내 말은... 우린 그냥 대화를 시작해서, 밤새도록 이야기하다가... 음, 그러다 잠든 것뿐이야."
 
-# game/code/d04/d04s02.rpy:174
-translate korean d04s02_domdbj_cdd670e3:
+# game/code/d04/d04s01.rpy:84
+translate korean d04s01_abcc1852:
 
-    # mc "Now swallow it all!"
-    mc "이제 이걸 모두 삼켜라!"
+    # mes "Fine, you don't have to tell me. I'll pull the details out of her later."
+    mes "됐어, 나한테 말할 필요 없어. 나중에 리디아한테서 자세한 내용을 캐낼 테니까."
 
-# game/code/d04/d04s02.rpy:178
-translate korean d04s02_domdbj_6ee2c111:
+# game/code/d04/d04s01.rpy:85
+translate korean d04s01_b0cbed56:
 
-    # mc "Well done. {w}What do you say after you've finished a meal?"
-    mc "훌륭하군. {w}식사를 마쳤으면 뭐라고 말해야 하지?"
+    # mes "At least it seems like you are on the right track with her!"
+    mes "적어도 걔랑 잘되고 있는 것 같아 다행이네!"
 
-# game/code/d04/d04s02.rpy:179
-translate korean d04s02_domdbj_5c22171a:
+# game/code/d04/d04s01.rpy:88
+translate korean d04s01_e42f30be:
 
-    # dd "Thank you for breakfast! {w}May I shower now?"
-    dd "아침 식사를 주셔서 감사합니다! {w}이제 샤워를 해도 될까요?"
+    # aw "Hey, guys! Look at this!"
+    aw "야, 애들아! 이걸 봐 봐!"
 
-# game/code/d04/d04s02.rpy:180
-translate korean d04s02_domdbj_606e2d02:
+# game/code/d04/d04s01.rpy:89
+translate korean d04s01_2cc7863f:
 
-    # mc "Sure."
-    mc "물론."
+    # mes "What is there?"
+    mes "거기 뭐가 있는데?"
 
-# game/code/d04/d04s02.rpy:183
-translate korean d04s02_domdbj_9fb02192:
+# game/code/d04/d04s01.rpy:91
+translate korean d04s01_9f4c2e3a:
 
-    # mct "That was amazing. I worried that I was pushing her too far, but she clearly enjoys such rough treatment!"
-    mct "이거 굉장했어. 얠 너무 밀어붙인 건 아닌가 싶었는데, 앤 이런 거친 취급도 확실히 즐기는 거 같네!"
+    # aw "Just take a look!"
+    aw "그냥 봐 봐!"
 
-# game/code/d04/d04s02.rpy:185
-translate korean d04s02_domdbj_28459d99:
+# game/code/d04/d04s01.rpy:95
+translate korean d04s01_0746823b:
 
-    # mct "I'm wondering how far this can go..."
-    mct "얼마나 멀리 갈 수 있을지 궁금한데..."
+    # mes "Is someone sleeping in my bushes?"
+    mes "누가 우리 집 덤불에서 자고 있는 거야?"
 
-# game/code/d04/d04s02.rpy:190
-translate korean d04s02_blowjob_f24f41d4:
+# game/code/d04/d04s01.rpy:96
+translate korean d04s01_8c8a89b7:
 
-    # mc "Remember how yesterday we lost this challenge?"
-    mc "우리가 어제 그 도전에서 졌던 거 기억하지?"
+    # mc "I think it is Daisy..."
+    mc "내 생각엔 데이지 같은데..."
 
-# game/code/d04/d04s02.rpy:191
-translate korean d04s02_blowjob_b1bc0a94:
+# game/code/d04/d04s01.rpy:97
+translate korean d04s01_28bccf80:
 
-    # dd "Sure!"
-    dd "그럼!"
+    # mes "Who?.. Ah... That Daisy..."
+    mes "누구?.. 아... 그 데이지..."
 
-# game/code/d04/d04s02.rpy:192
-translate korean d04s02_blowjob_a10ec324:
+# game/code/d04/d04s01.rpy:98
+translate korean d04s01_e2bb39a2:
 
-    # mc "Can you help me with this? My balls have been exploding since yesterday!"
-    mc "이거 좀 도와줄 수 있어? 내 불알이 어제 이래로 터지기 직전이거든!"
+    # mc "Hey! Daisy! Wake up!!"
+    mc "야! 데이지! 일어나!!"
 
-# game/code/d04/d04s02.rpy:194
-translate korean d04s02_blowjob_812f6a66:
+# game/code/d04/d04s01.rpy:104
+translate korean d04s01_a7e64f97:
 
-    # dd "Oh! Did I leave him waiting all night?!"
-    dd "오! 내가 이 애를 밤 내내 기다리게 한 거니?!"
+    # dd "...huh? ...[mcname]?"
+    dd "...엉? ...[mcname]?"
 
-# game/code/d04/d04s02.rpy:196
-translate korean d04s02_blowjob_9f54e67f:
+# game/code/d04/d04s01.rpy:105
+translate korean d04s01_a776e4e5:
 
-    # mc "I have! I did! Actually had some nice encounters yesterday..."
-    mc "본 적 있어! 봤었지! 어제 정말 좋은 만남도 있었다고..."
+    # mc "Morning! Come upstairs! We are having breakfast!"
+    mc "아침이야! 위층으로 올라와! 우리 지금 아침 먹고 있어!"
 
-# game/code/d04/d04s02.rpy:197
-translate korean d04s02_blowjob_c6abaa7d:
+# game/code/d04/d04s01.rpy:106
+translate korean d04s01_39d137ca:
 
-    # dd "Oh! Is that so?"
-    dd "오! 그랬니?"
+    # dd "Okay, okay... just stop yelling..."
+    dd "알았어, 알았으니까... 그만 좀 소리쳐..."
 
-# game/code/d04/d04s02.rpy:198
-translate korean d04s02_blowjob_599ff22d:
+# game/code/d04/d04s01.rpy:110
+translate korean d04s01_2be1690d:
 
-    # mc "Yes, but I still didn't... {w}You know?... {w}Didn't finish..."
-    mc "그래, 하지만 난 여전히 못 했어... {w}너도 알지?... {w}못 끝냈다고..."
+    # dd "Ugh..."
+    dd "어흐..."
 
-# game/code/d04/d04s02.rpy:201
-translate korean d04s02_blowjob_01cd19c1:
+# game/code/d04/d04s01.rpy:111
+translate korean d04s01_24c395d8:
 
-    # dd "Oh! Poor boy!"
-    dd "오! 불쌍한 녀석!"
+    # mc "Hey how are you?"
+    mc "어이, 좀 어때?"
 
-# game/code/d04/d04s02.rpy:204
-translate korean d04s02_blowjob_71358059:
+# game/code/d04/d04s01.rpy:114
+translate korean d04s01_c9ad978b:
 
-    # dd "I think I can help you with this problem!"
-    dd "내가 그 문제는 도와줄 수 있을 거 같네!"
+    # dd "Oh! Coffee! {w}I feel like... I think I slept in some bushes..."
+    dd "오! 커피다! {w}그러니까... 덤불에서 자고 일어난 기분이야..."
 
-# game/code/d04/d04s02.rpy:206
-translate korean d04s02_blowjob_70c78278:
+# game/code/d04/d04s01.rpy:116
+translate korean d04s01_f0b75c0e:
 
-    # dd "Come here!"
-    dd "나한테 와!"
+    # mes "Not the smartest idea, huh?"
+    mes "그렇게 현명한 생각은 아니었네, 그치?"
 
-# game/code/d04/d04s02.rpy:208
-translate korean d04s02_blowjob_6ad58788:
+# game/code/d04/d04s01.rpy:118
+translate korean d04s01_28f61cbf:
 
-    # dd "I think he is happy to see me!"
-    dd "얘도 날 보면 좋아할 거야!"
+    # dd "I don't remember how I ended up sleeping there..."
+    dd "어떻게 거기서 자게 된 건지 기억도 안 나..."
 
-# game/code/d04/d04s02.rpy:210
-translate korean d04s02_blowjob_f7e612fd:
+# game/code/d04/d04s01.rpy:119
+translate korean d04s01_910a930c:
 
-    # dd "But I would taste the tip first!"
-    dd "하지만 먼저 끝부분부터 맛볼 거야!"
+    # mc "What is the last thing you remember?"
+    mc "마지막으로 기억하는 게 뭐야?"
 
-# game/code/d04/d04s02.rpy:222
-translate korean d04s02_blowjob_e8d8ee25:
+# game/code/d04/d04s01.rpy:120
+translate korean d04s01_ede4a4cb:
 
-    # dd "I think you are almost ready to cum!"
-    dd "너 쌀 생각 만만이구나!"
+    # dd "I was having fun. I was watching some buttfucking..."
+    dd "재밌게 놀고 있던 거. 후장으로 떡치는 것도 구경했는데..."
 
-# game/code/d04/d04s02.rpy:224
-translate korean d04s02_blowjob_3e679293:
+# game/code/d04/d04s01.rpy:122
+translate korean d04s01_2b06c116:
 
-    # dd "You want me to suck it?"
-    dd "내가 빨아 주면 좋겠어?"
+    # mes "hello."
+    mes "어이."
 
-# game/code/d04/d04s02.rpy:225
-translate korean d04s02_blowjob_fdd641ca:
+# game/code/d04/d04s01.rpy:124
+translate korean d04s01_1bc6db19:
 
-    # mc "Y-yes!"
-    mc "으-응!"
+    # dd "Oh, hi. Then we were drinking some vodka..."
+    dd "오, 안녕. 그담엔 우린 보드카를 좀 마셨어..."
 
-# game/code/d04/d04s02.rpy:227
-translate korean d04s02_blowjob_d430d393:
+# game/code/d04/d04s01.rpy:125
+translate korean d04s01_fead1c4c:
 
-    # dd "I have a better idea!"
-    dd "나한테 더 좋은 생각이 있어!"
+    # aw "Who were \"we\"?"
+    aw "그 \"우리\"가 누군데?"
 
-# game/code/d04/d04s02.rpy:231
-translate korean d04s02_handjob_660b684a:
+# game/code/d04/d04s01.rpy:126
+translate korean d04s01_098a0ba3:
 
-    # mc "Oh, I..."
-    mc "아, 난..."
+    # dd "Vesna and Talia and me... then they started making out..."
+    dd "베스나랑 탈리아랑 나... 그리고 걔들이 애무하기 시작했고..."
 
-# game/code/d04/d04s02.rpy:232
-translate korean d04s02_handjob_79fe33e1:
+# game/code/d04/d04s01.rpy:127
+translate korean d04s01_46f3a35a:
 
-    # dd "Did you go through that entire party without getting any?"
-    dd "그 파티 내내 누구랑도 못 한 거야?"
+    # dd "... I think they forgot I was still there..."
+    dd "... 내 생각엔 걔들은 내가 있다는 것도 잊은 거 같았어..."
 
-# game/code/d04/d04s02.rpy:233
-translate korean d04s02_handjob_92ebca3f:
+# game/code/d04/d04s01.rpy:128
+translate korean d04s01_ffa88548:
 
-    # mc "Well... I got close a few times..."
-    mc "흠... 할 뻔한 건 몇 번 있었어..."
+    # dd "So, then I was looking for a place to pee and went to the bushes..."
+    dd "그래서 볼일 볼 곳을 찾다가 덤불로 향했는데..."
 
-# game/code/d04/d04s02.rpy:235
-translate korean d04s02_handjob_5b05f1bb:
+# game/code/d04/d04s01.rpy:130
+translate korean d04s01_f5a15852:
 
-    # dd "Don't feel bad. I didn't cum last night either..."
-    dd "속상해 하지 마. 나도 어제 한 번도 못 샀어..."
+    # dd "That is how I ended up there!"
+    dd "그래서 거기에서 잠들게 된 거야!"
 
-# game/code/d04/d04s02.rpy:236
-translate korean d04s02_handjob_a31340dd:
+# game/code/d04/d04s01.rpy:132
+translate korean d04s01_136597e7:
 
-    # mc "Really?"
-    mc "정말?"
+    # mes "No shit! You know we have toilets in the house right?"
+    mes "환장하겠네! 너 우리 집에 화장실 있는 건 알지, 어?"
 
-# game/code/d04/d04s02.rpy:237
-translate korean d04s02_handjob_5bb3d714:
+# game/code/d04/d04s01.rpy:134
+translate korean d04s01_55eadc00:
 
-    # dd "Seriously! I mean, just look at me!"
-    dd "정말 그렇다니까! 내 말이, 날 봐 봐!"
+    # dd "I don't think I even remembered there was a house..."
+    dd "난 집이 있다는 것도 기억 못한 거 같아..."
 
-# game/code/d04/d04s02.rpy:238
-translate korean d04s02_handjob_c49cf2fc:
+# game/code/d04/d04s01.rpy:135
+translate korean d04s01_f1004908:
 
-    # mc "I am... {w}and I like what I see."
-    mc "난... {w}그러니까 나는 마음에 드는데."
+    # dd "What was in that vodka?"
+    dd "그 보드카에 뭐가 들었던 건가?"
 
-# game/code/d04/d04s02.rpy:239
-translate korean d04s02_handjob_e2b16bd3:
+# game/code/d04/d04s01.rpy:137
+translate korean d04s01_6da20c67:
 
-    # dd "Really?"
-    dd "정말?"
+    # mes "I'm guessing... vodka?"
+    mes "내 생각엔... 보드카?"
 
-# game/code/d04/d04s02.rpy:240
-translate korean d04s02_handjob_5844ae44:
+# game/code/d04/d04s01.rpy:138
+translate korean d04s01_11d12e9e:
 
-    # mc "Hell yeah."
-    mc "당연하지."
+    # aw "Yeah, probably vodka."
+    aw "그래, 아마도 보드카."
 
-# game/code/d04/d04s02.rpy:242
-translate korean d04s02_handjob_e1fa27d7:
+# game/code/d04/d04s01.rpy:140
+translate korean d04s01_3728526d:
 
-    # dd "You know, we could do something about that."
-    dd "너도 알지, 우리가 지금 그렇고 그런 일을 할 수 있다는 거."
+    # dd "huh. I guess that would do it."
+    dd "아. 그거면 설명이 되네."
 
-# game/code/d04/d04s02.rpy:243
-translate korean d04s02_handjob_2b58880e:
+# game/code/d04/d04s01.rpy:141
+translate korean d04s01_4e9d5928:
 
-    # mc "Mmm... I like that idea..."
-    mc "으음... 그 생각 마음에 드네..."
+    # dd "Oh, [mcname]! Do you know where Pete is?"
+    dd "아, [mcname]! 너 피트가 어디 있는지 아니?"
 
-# game/code/d04/d04s02.rpy:248
-translate korean d04s02_handjob_part_2_70c78278:
+# game/code/d04/d04s01.rpy:142
+translate korean d04s01_606bc203:
 
-    # dd "Come here!"
-    dd "이리로 와!"
+    # mc "No idea. I haven't seen him this morning."
+    mc "전혀. 오늘 아침엔 못 봤는데."
 
-# game/code/d04/d04s02.rpy:251
-translate korean d04s02_handjob_part_2_dcafc32b:
+# game/code/d04/d04s01.rpy:143
+translate korean d04s01_bbaaf33c:
 
-    # dd "Here you go!"
-    dd "자 여기!"
+    # dd "My change of clothes is in his dorm room... I don't want to walk around like this all day."
+    dd "갈아입을 옷이 피트 기숙사 방에 있는데... 하루 종일 이 꼴로 돌아다니고 싶진 않거든."
 
-# game/code/d04/d04s02.rpy:255
-translate korean d04s02_handjob_part_2_09e61f10:
+# game/code/d04/d04s01.rpy:144
+translate korean d04s01_03082f9c:
 
-    # dd "Mmm! What a wonderful taste!"
-    dd "으음! 정말 대단한 맛이야!"
+    # mc "You know it is my dorm room as well, right?"
+    mc "내 기숙사 방이기도 한 건 알지, 그렇지?"
 
-# game/code/d04/d04s02.rpy:257
-translate korean d04s02_handjob_part_2_5c3d2240:
+# game/code/d04/d04s01.rpy:147
+translate korean d04s01_c5e1e755:
 
-    # dd "Grind against my ass!"
-    dd "내 엉덩이에 비벼!"
+    # dd "Oh yeah! That is great! Can we go there?"
+    dd "아, 그랬지! 그거 다행이네! 같이 갈 수 있을까?"
 
-# game/code/d04/d04s02.rpy:260
-translate korean d04s02_handjob_part_2_deb2ee9f:
+# game/code/d04/d04s01.rpy:149
+translate korean d04s01_3806d623:
 
-    # dd "There you go!"
-    dd "그래 여기 있어!"
+    # mc "Sure, you finished with your coffee?"
+    mc "물론이지, 커피는 다 마신 거야?"
 
-# game/code/d04/d04s02.rpy:267
-translate korean d04s02_handjob_part_2_a39e1698:
+# game/code/d04/d04s01.rpy:151
+translate korean d04s01_ade4f55f:
 
-    # dd "Cum all over my ass!"
-    dd "정액으로 내 엉덩이를 뒤덮어 줘!"
+    # dd "Caffeinated and Ready to go!"
+    dd "카페인 충전 완료, 갈 준비 끝!"
 
-# game/code/d04/d04s02.rpy:278
-translate korean d04s02_handjob_part_2_232c3f6d:
+# game/code/d04/d04s01.rpy:155
+translate korean d04s01_4267fa5e:
 
-    # mc "O-o-oh!"
-    mc "오-오-오!"
+    # mes "(whisper) Hey [mcname], can I talk to you for a second?"
+    mes "(속삭임) 야 [mcname], 잠깐 이야기 좀 할 수 있을까?"
 
-# game/code/d04/d04s02.rpy:283
-translate korean d04s02_handjob_part_2_c4af3686:
+# game/code/d04/d04s01.rpy:156
+translate korean d04s01_d7578b08:
 
-    # dd "That was fun! Nothing starts a morning like a cum shower!"
-    dd "즐거웠어! 정액 샤워로 아침을 시작하는 것만큼 좋은 것도 없지"
+    # mc "Sure what's up?"
+    mc "물론이지, 무슨 일인데?"
 
-# game/code/d04/d04s02.rpy:284
-translate korean d04s02_handjob_part_2_8e627502:
+# game/code/d04/d04s01.rpy:159
+translate korean d04s01_638ed63e:
 
-    # dd "Now I need another shower... {w}the regular kind, with water!"
-    dd "이제 다른 샤워를 해야겠네... {w}평범한 거 말야, 물로 하는!"
+    # mes "About your win yesterday..."
+    mes "니가 어제 이긴 거 말인데..."
 
-# game/code/d04/d04s02.rpy:297
-translate korean d04s02_end_c0a5cd53:
+# game/code/d04/d04s01.rpy:160
+translate korean d04s01_f49fff8f:
 
-    # dd "So, this was a lot of fun..."
-    dd "그렇지, 이거 정말 재미있었어..."
+    # mc "Yeah?"
+    mc "근데?"
 
-# game/code/d04/d04s02.rpy:298
-translate korean d04s02_end_fece55d2:
+# game/code/d04/d04s01.rpy:161
+translate korean d04s01_97633a67:
 
-    # mc "Agreed, we should do it again sometime, but..."
-    mc "나도 그랬어, 나중에 또 하면 좋겠지만, 하지만..."
+    # mes "Well... {w} It is..."
+    mes "그게... {w} 실은..."
 
-# game/code/d04/d04s02.rpy:300
-translate korean d04s02_end_5beaa5c2:
+# game/code/d04/d04s01.rpy:162
+translate korean d04s01_66213e4a:
 
-    # dd "Exactly. I'm not really looking for..."
-    dd "맞아. 내가 정말 바라던 건 아니었어..."
+    # mc "I didn't take you for the shy type!"
+    mc "난 네가 부끄럼 타는 성격인 줄은 몰랐는데!"
 
-# game/code/d04/d04s02.rpy:301
-translate korean d04s02_end_7f3ac096:
+# game/code/d04/d04s01.rpy:163
+translate korean d04s01_a7759475:
 
-    # mc "And if I'm honest, I'm kinda trying to hook up with someone else..."
-    mc "그리고 정직하게 말하자면, 다른 사람이랑 해 보려고..."
+    # mes "I'm not shy - I just hate losing! {w}And I could use your help to make sure that doesn't happen again!"
+    mes "부끄러워하는 게 아냐 - 그냥 지는 게 싫은 거지! {w}그리고 다시는 지는 일이 없도록 네 도움이 필요해!"
 
-# game/code/d04/d04s02.rpy:303
-translate korean d04s02_end_9eab46ca:
+# game/code/d04/d04s01.rpy:164
+translate korean d04s01_978c8108:
 
-    # dd "Go [mcname]! You are going to rock her world."
-    dd "해 봐 [mcname]! 넌 걔 마음을 흔들 수 있을 거야."
+    # mc "How can I help you?"
+    mc "내가 어떻게 도와줄까?"
 
-# game/code/d04/d04s02.rpy:304
-translate korean d04s02_end_10dee4ef:
+# game/code/d04/d04s01.rpy:165
+translate korean d04s01_a39df845:
 
-    # mc "You think so?"
-    mc "정말 그렇게 생각해?"
+    # mes "You seem to be good with... {w}..."
+    mes "너 그거 잘 하는 거 같은데... {w}..."
 
-# game/code/d04/d04s02.rpy:307
-translate korean d04s02_end_fea9b55c:
+# game/code/d04/d04s01.rpy:166
+translate korean d04s01_25ede9e0:
 
-    # dd "Definitely."
-    dd "확신해."
+    # mc "Watersports?"
+    mc "워터스포츠?"
 
-# game/code/d04/d04s02.rpy:321
-translate korean d04s02_message_a1361921:
+# game/code/d04/d04s01.rpy:167
+translate korean d04s01_5777a254:
 
-    # lc "Hey, my class got canceled. Do you want to meet up for coffee now?"
-    lc "있지, 내 수업이 취소됐어. 지금 커피 마시러 가겠니?"
+    # mes "Yes! I was going to say Pissing Fetish."
+    mes "맞아! 난 소변 페티시라고 말하려고 했는데."
 
-# game/code/d04/d04s02.rpy:322
-translate korean d04s02_message_dc223cec:
+# game/code/d04/d04s01.rpy:168
+translate korean d04s01_807d0616:
 
-    # mct "Damn, I have a class now..."
-    mct "망할, 난 지금 수업이 있는데..."
+    # mc "Yeah, I guess it is one of my kinks."
+    mc "맞아, 내 성벽 중 하나지."
 
-# game/code/d04/d04s02.rpy:323
-translate korean d04s02_message_96863f49:
+# game/code/d04/d04s01.rpy:169
+translate korean d04s01_a2430796:
 
-    # mct "But there is no way I'm missing this opportunity! I'm on my way!"
-    mct "하지만 이 기회를 놓칠 수는 없지! 지금 간다!"
+    # mes "Could you... practice that with me?"
+    mes "너 혹시... 나랑 같이 연습해 줄 수 있어?"
 
-# game/code/d04/d04s02.rpy:326
-translate korean d04s02_message_3688a773:
+# game/code/d04/d04s01.rpy:170
+translate korean d04s01_69263aea:
 
-    # mc "(Whistles) We don't need no education..."
-    mc "(휘바람) 우리에게 교육 따윈 필요 없다..."
+    # mc "What would your boyfriend say about that?"
+    mc "네 남자 친구가 뭐라고 하지 않을까?"
 
-translate korean strings:
+# game/code/d04/d04s01.rpy:171
+translate korean d04s01_8cf9ed7e:
 
-    # game/code/d04/d04s02.rpy:64
-    old "Command Daisy to Blow You"
-    new "데이지에게 빨라고 요구한다"
+    # mes "He isn't into that... and it's not like he has to know."
+    mes "걘 그런 거 안 좋아해... 그리고 걔가 꼭 알아야 하는 건 아니잖아."
 
-    # game/code/d04/d04s02.rpy:64
-    old "Ask Daisy Blow You"
-    new "데이지에게 빨아 달라고 부탁한다"
+# game/code/d04/d04s01.rpy:172
+translate korean d04s01_d2076fc3:
 
-    # game/code/d04/d04s02.rpy:64
-    old "Get a Handjob"
-    new "핸드잡을 받는다"
+    # mes "Also, it isn't anything sexual for me. I could use your help."
+    mes "또, 이건 나한텐 무슨 성적인 일 같은 것도 아니고. 네 도움이 필요할 뿐이야."
 
-    # game/code/d04/d04s02.rpy:64
-    old "Just shower and leave"
-    new "그냥 샤워를 하고 나간다"
+# game/code/d04/d04s01.rpy:173
+translate korean d04s01_97def754:
+
+    # mes "Don't think that I'm hitting on you or anything. I just hate to lose."
+    mes "내가 너한테 수작 부리는 거란 생각도 하지 마. 난 그냥 지는 게 싫을 뿐이니까."
+
+# game/code/d04/d04s01.rpy:175
+translate korean d04s01_cc8a0c99:
+
+    # mc "Cool. I'll think about it and get back to you, sound good?"
+    mc "알겠어. 생각해 보고 연락할게, 괜찮지?"
+
+# game/code/d04/d04s01.rpy:176
+translate korean d04s01_0babd4bb:
+
+    # mes "Great! Thanks!"
+    mes "아주 좋아! 고마워!"
+
+# game/code/d04/d04s01.rpy:178
+translate korean d04s01_16d522f3:
+
+    # mes "(whisper) I bet she is."
+    mes "(속삭임) 분명 그렇겠지."
 
