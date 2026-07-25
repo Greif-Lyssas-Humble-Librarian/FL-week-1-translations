@@ -1,6 +1,6 @@
-﻿translate korean strings:
+translate korean strings:
 
     # game/code/characters.rpy:16
     old "CamTubeHelper"
-    new "CamTubeHelper"
+    new "캠튜브도우미"
 
